@@ -37,6 +37,8 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 11. **Perché il modello non poggia su una previsione** — criterio costruttivo: il sistema è progettato per l'incertezza, non per uno scenario, e non è falsificato dal fatto che una previsione non si avveri.
 12. **Come si introduce un modello nuovo** — tre principi di metodo: il precedente normativo più vicino invece di una norma nuova; il pubblico che abilita invece di costruire; l'orizzonte dichiarato come profezia che si autoavvera.
 13. **Il rifiuto dello strumento** — questione aperta: un sistema che riconosce l'unicità deve poter descrivere anche chi rifiuta lo strumento con cui lo si riconosce.
+14. **Il precedente Robinson** — la diagnosi è del 2010 e non è di questo progetto; ciò che è di questo progetto è il meccanismo che la diagnosi non conteneva. Include ciò che il modello esplicitamente non assume.
+15. **La prova viene dal gruppo, il profilo resta della persona** — risposta all'obiezione dell'atomizzazione: nessun blocco della ragnatela nasce da una prestazione isolata.
 
 Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./La-Scuola-dei-Talenti-Position-Paper.md).
 
