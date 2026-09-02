@@ -47,4 +47,4 @@ Global Skills Taxonomy ed ESCO sono i candidati naturali per le **sotto-ragnatel
 ## Perché questa mappa conta per il libro
 Risponde in anticipo all'obiezione più prevedibile ("stai reinventando la ruota" o, al contrario, "è tutto fuffa senza basi reali"): **tre quarti dello stack sono già costruiti e validati da istituzioni serie** (WEF, UE); il quarto — il ritratto personale non ottimizzabile — è l'unico pezzo davvero nuovo, ed è anche il più facile da spiegare e difendere perché il resto dell'impalcatura non è un'invenzione ma un assemblaggio.
 
-Collegamenti: [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]] · [[Blockchain educativa]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Cosa serve per scalare a livello nazionale]] · [[Visione - La scuola dei talenti]]
+Collegamenti: [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]] · [[Blockchain educativa]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Cosa serve per scalare a livello nazionale]] · [[Trama - la visione]]

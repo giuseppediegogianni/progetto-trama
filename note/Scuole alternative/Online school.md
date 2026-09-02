@@ -35,7 +35,7 @@ Isolamento sociale e nessuna esplorazione corporea o pratica; misura solo ciò c
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 È l'unico modello con l'infrastruttura tecnologica che il sistema richiede: LMS attivo 24 ore su 24, tracciamento continuo dei progressi, piani adattivi, feedback automatico, accessibilità per bisogni diversi, esami proctorati e titoli accreditati riconosciuti a distanza. Il mastery-based di alcune scuole online è il ritmo personale immaginato nella visione.

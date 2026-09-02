@@ -22,4 +22,4 @@ Facciamo scelte di vita (o le fanno per noi):
 
 Il talento c'era. È il **sistema di scoperta** che non è mai esistito. Nessuno dei 10 modelli in [[00 - Confronto scuole alternative]] cerca attivamente un talento prima che si manifesti da solo — è il gap più profondo trovato dalla ricerca.
 
-Collegamenti: [[Visione - La scuola dei talenti]] · [[Ikigai]]
+Collegamenti: [[Trama - la visione]] · [[Ikigai]]

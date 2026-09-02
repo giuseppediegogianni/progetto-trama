@@ -35,7 +35,7 @@ Fortemente competitivo e votocentrico; il punteggio unico su 45 comprime in un n
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Il nucleo TOK + Extended Essay + CAS è l'unico caso mainstream in cui riflessione su di sé, ricerca autonoma e servizio sono obbligatori e certificati. La domanda che l'IB pone allo studente — chi sono e cosa voglio dalla vita — è letteralmente la domanda del libro (vedi [[Ikigai]]).

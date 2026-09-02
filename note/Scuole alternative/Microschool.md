@@ -35,13 +35,13 @@ Qualità e accreditamento molto disomogenei; dipendenza da una sola figura adult
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Meno di 15 studenti per classe: è l'unico modello che rende fisicamente possibile l'osservazione individuale che il sistema richiede. Mastery-based invece che votocentrico, età miste, mix di digitale e presenza, ritmo personale.
 
 ### 🔴 Conflitti
-Il rapporto uno-a-pochi concentra tutto il giudizio su un solo adulto: è il rischio di bias massimo, esattamente ciò che il [[Visione - La scuola dei talenti|team multidisciplinare]] doveva correggere. La disomogeneità qualitativa (solo il 22% accreditate) è l'argomento migliore per chi sostiene che senza standard nazionali si apre il far west.
+Il rapporto uno-a-pochi concentra tutto il giudizio su un solo adulto: è il rischio di bias massimo, esattamente ciò che il [[Trama - la visione|team multidisciplinare]] doveva correggere. La disomogeneità qualitativa (solo il 22% accreditate) è l'argomento migliore per chi sostiene che senza standard nazionali si apre il far west.
 
 ### 🟡 Gap
 Nessuna tassonomia condivisa, nessuna portabilità tra microschool, scalabilità nulla per definizione.

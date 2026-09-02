@@ -33,4 +33,4 @@ Chi si sottrae all'osservazione ha un profilo più povero. In un sistema in cui 
 
 Questa questione resta dichiaratamente aperta. Va tenuta accanto all'altra questione aperta della stessa famiglia — il consenso e il trattamento dei dati dei minori, in [[Il nodo GDPR e i minori]] — perché entrambe riguardano il confine tra un sistema che descrive e un sistema che, per descrivere, deve prima ottenere accesso.
 
-Collegamenti: [[Il modello ibrido uomo-macchina]] · [[Chi è l'educatore della prima infanzia]] · [[Il nodo GDPR e i minori]] · [[La ragnatela delle competenze]] · [[Blockchain educativa]] · [[Visione - La scuola dei talenti]]
+Collegamenti: [[Il modello ibrido uomo-macchina]] · [[Chi è l'educatore della prima infanzia]] · [[Il nodo GDPR e i minori]] · [[La ragnatela delle competenze]] · [[Blockchain educativa]] · [[Trama - la visione]]

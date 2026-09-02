@@ -4,7 +4,7 @@ tags: [libro, ricerca, indice, confronto]
 
 # Confronto scuole alternative — indice e matrice
 
-> Analisi delle 10 tipologie di scuola citate nel video "10 types of alternate schools" (The Unschoolers Educational Dictionary), confrontate con [[Visione - La scuola dei talenti|il mio modello]] su 12 dimensioni. Ricerca web condotta il 29 luglio 2026. Corrisponde al file Excel "Scuole-Alternative-Analisi-Comparativa.xlsx" già condiviso.
+> Analisi delle 10 tipologie di scuola citate nel video "10 types of alternate schools" (The Unschoolers Educational Dictionary), confrontate con [[Trama - la visione|il mio modello]] su 12 dimensioni. Ricerca web condotta il 29 luglio 2026. Corrisponde al file Excel "Scuole-Alternative-Analisi-Comparativa.xlsx" già condiviso.
 
 ## Le 10 schede
 
@@ -55,7 +55,7 @@ tags: [libro, ricerca, indice, confronto]
 - **D11 — Validazione umana (doppia firma)** (media 0.0/3) → *SPAZIO BIANCO*
 - **D12 — Scala nazionale pubblica** (media 1.3/3) → parzialmente esplorato
 
-Le dimensioni **D11 (validazione umana a doppia firma)** e **D7 (ragnatela delle competenze)** sono i vuoti più netti: nessun modello analizzato le prevede. Sono anche le due idee più originali della [[Visione - La scuola dei talenti|mia proposta]] — e quindi quelle senza precedenti a cui appoggiarmi.
+Le dimensioni **D11 (validazione umana a doppia firma)** e **D7 (ragnatela delle competenze)** sono i vuoti più netti: nessun modello analizzato le prevede. Sono anche le due idee più originali della [[Trama - la visione|mia proposta]] — e quindi quelle senza precedenti a cui appoggiarmi.
 
 ## I due precedenti pubblici più forti
 
@@ -69,4 +69,4 @@ Insieme dimostrano che un modello alternativo **può** essere pubblico e di mass
 Vedi lo studio Stanford citato in [[Scuole alternative/Waldorf]]: un modello non votocentrico può comunque produrre risultati migliori sui test standardizzati, solo con un ritardo iniziale seguito da un sorpasso netto. È la risposta pronta a "sì bello, ma poi i ragazzi non imparano niente" — vedi [[Intro del libro - bozza di lavoro]].
 
 ## Collegamenti
-[[00 - Indice - La Scuola dei Talenti]] · [[Cosa serve per scalare a livello nazionale]] · [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]]
+[[00 - Indice - Trama]] · [[Cosa serve per scalare a livello nazionale]] · [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]]

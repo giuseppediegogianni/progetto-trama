@@ -35,7 +35,7 @@ Base antroposofica non condivisa da tutti; il ritardo tecnologico è discusso; i
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Il più vicino in assoluto sulla filosofia: percorso lungo dai 3 ai 18 anni con lo stesso maestro per anni, nessun voto fino ai 15, nessuna competizione, arti e mani insieme alla testa, orto e teatro dentro il curriculum, pagelle descrittive invece di numeri.

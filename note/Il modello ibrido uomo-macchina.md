@@ -43,4 +43,4 @@ Nessun meccanismo di ricorso formale. Non serve: un bambino descritto come "apat
 ## L'IA come attrezzo, non solo come minaccia esterna
 Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica alla trasformazione del mercato del lavoro descritta in [[La nave per un porto sommerso - IA e automazione]]: la stessa tecnologia che rende incerto il futuro professionale dei ragazzi è quella che rende costruibile, oggi, un sistema capace di seguirli uno per uno su scala nazionale.
 
-Collegamenti: [[Blockchain educativa]] · [[Il nodo GDPR e i minori]] · [[Visione - La scuola dei talenti]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[La nave per un porto sommerso - IA e automazione]] · [[Decadenza e rinnovo delle competenze]]
+Collegamenti: [[Blockchain educativa]] · [[Il nodo GDPR e i minori]] · [[Trama - la visione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[La nave per un porto sommerso - IA e automazione]] · [[Decadenza e rinnovo delle competenze]]

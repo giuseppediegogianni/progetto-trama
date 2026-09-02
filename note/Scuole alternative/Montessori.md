@@ -35,7 +35,7 @@ Difficoltà a comunicare ai genitori il livello accademico raggiunto; frammentaz
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Il più vicino sul metodo di osservazione: il registro delle presentazioni è, di fatto, un tracciamento granulare del percorso individuale — esattamente ciò che vorrei mettere in blockchain. Niente voti, niente classifiche, età miste, ritmo personale, autovalutazione strutturata.

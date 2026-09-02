@@ -1,4 +1,4 @@
-# La Scuola dei Talenti
+# Trama
 
 ### Un modello educativo per l'era dell'intelligenza artificiale
 
@@ -7,6 +7,7 @@
 - **Autore:** Giuseppe-Diego Gianni
 - **Prima pubblicazione (versione 1.0):** 30 luglio 2026 — resta il primo marcatore pubblico datato di questa sintesi
 - **Questa revisione:** 2 settembre 2026
+- **Nome precedente:** pubblicato come *"La Scuola dei Talenti"* dalla versione 1.0 (30 luglio 2026) fino al 2 settembre 2026; rinominato **Trama** in pari data per evitare l'omonimia con un libro di altro autore. Contenuto e paternità invariati.
 - **Licenza:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — è permessa la citazione, la ripresa e lo sviluppo di queste idee, a condizione di attribuirne la paternità all'autore originale
 
 ---
@@ -203,6 +204,6 @@ Il modello è aperto al confronto, alla critica e allo sviluppo collaborativo: l
 
 ## Come citare questo documento
 
-> Giuseppe-Diego Gianni, *"La Scuola dei Talenti — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.0, 2 settembre 2026 (prima versione: 30 luglio 2026).
+> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.0, 2 settembre 2026 (prima versione: 30 luglio 2026). Le versioni 1.0 e 2.0 sono state pubblicate con il titolo *"La Scuola dei Talenti"*.
 
 *Per domande, osservazioni critiche o proposte di collaborazione, contattare l'autore direttamente.*

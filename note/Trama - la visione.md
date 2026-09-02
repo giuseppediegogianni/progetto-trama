@@ -2,7 +2,9 @@
 tags: [libro, idea, visione]
 ---
 
-# Visione — La scuola dei talenti
+# Trama — la visione
+
+**Trama**: l'intreccio dei fili che compongono una persona, e insieme la storia che ne viene fuori. Il modello non misura quanto in alto arriva qualcuno, ma di che tessuto è fatto.
 
 Un ecosistema educativo **continuo**, dalla prima infanzia all'età adulta, senza la divisione rigida elementari–medie–superiori. Un percorso unico che accompagna il ragazzo fino al mondo del lavoro (che nel frattempo si è completamente trasformato).
 

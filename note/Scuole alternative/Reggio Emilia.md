@@ -35,10 +35,10 @@ Copre solo 0-6 anni; la documentazione è cartacea/analogica, non strutturata co
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
-Il precedente storico più importante per l'idea: la documentazione — foto, video, note, lavori — è già un registro del percorso che serve contemporaneamente al bambino per rivedersi, all'educatore per riflettere e alla famiglia per capire. Il pedagogista è esattamente l'educatore formato in psicologia della [[Visione - La scuola dei talenti|mia visione]]. In più è pubblico, comunale e italiano.
+Il precedente storico più importante per l'idea: la documentazione — foto, video, note, lavori — è già un registro del percorso che serve contemporaneamente al bambino per rivedersi, all'educatore per riflettere e alla famiglia per capire. Il pedagogista è esattamente l'educatore formato in psicologia della [[Trama - la visione|mia visione]]. In più è pubblico, comunale e italiano.
 
 ### 🔴 Conflitti
 La documentazione è volutamente narrativa e qualitativa: trasformarla in dati strutturati per un radar la snaturerebbe, e i reggiani lo direbbero apertamente. Il loro punto è che il bambino non si misura.

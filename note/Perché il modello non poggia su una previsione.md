@@ -35,4 +35,4 @@ Questo non è un ripiego, è il criterio costruttivo del modello, ed è già imp
 
 **Il limite onesto.** Un modello che non scommette su uno scenario non può nemmeno promettere esiti quantificati. Non può dire quante persone troveranno un lavoro migliore, né quanto crescerà l'occupazione. Può dire soltanto che le persone sapranno più cose su di sé, e che il sistema saprà accompagnarle quando il contesto cambia. È una promessa più piccola, ed è l'unica che il livello di incertezza attuale consenta di fare onestamente.
 
-Collegamenti: [[La nave per un porto sommerso - IA e automazione]] · [[La ragnatela delle competenze]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Decadenza e rinnovo delle competenze]] · [[Visione - La scuola dei talenti]] · [[Cosa serve per scalare a livello nazionale]]
+Collegamenti: [[La nave per un porto sommerso - IA e automazione]] · [[La ragnatela delle competenze]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Decadenza e rinnovo delle competenze]] · [[Trama - la visione]] · [[Cosa serve per scalare a livello nazionale]]

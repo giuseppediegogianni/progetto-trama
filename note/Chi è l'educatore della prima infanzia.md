@@ -21,4 +21,4 @@ La validazione del profilo del bambino: le reazioni agli stimoli e all'interazio
 
 Questi tre punti restano deliberatamente operativi e fuori dal perimetro del libro: se ne occuperanno gli addetti ai lavori.
 
-Collegamenti: [[Il modello ibrido uomo-macchina]] · [[La ragnatela delle competenze]] · [[Visione - La scuola dei talenti]]
+Collegamenti: [[Il modello ibrido uomo-macchina]] · [[La ragnatela delle competenze]] · [[Trama - la visione]]

@@ -38,4 +38,4 @@ Se sia un asse autonomo o la forma che assume, in questo contesto, l'asse "comun
 
 Resta inoltre da chiarire il rapporto con il rischio opposto: se si delega l'esecuzione, il giudizio sul risultato — terza componente — si allena solo avendo eseguito qualcosa a mano prima. Le due esigenze vanno tenute insieme senza risolverle a favore dell'una.
 
-Collegamenti: [[La ragnatela delle competenze]] · [[Decadenza e rinnovo delle competenze]] · [[La nave per un porto sommerso - IA e automazione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Ikigai]] · [[Visione - La scuola dei talenti]]
+Collegamenti: [[La ragnatela delle competenze]] · [[Decadenza e rinnovo delle competenze]] · [[La nave per un porto sommerso - IA e automazione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Ikigai]] · [[Trama - la visione]]

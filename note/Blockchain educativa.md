@@ -27,6 +27,6 @@ Nel 2024 l'Universidad de los Andes (Bogotà, Colombia) ha introdotto credenzial
 La blockchain resta un registro che **non cambia mai** ciò che è stato scritto: un blocco certifica che una competenza era vera in un momento preciso, per sempre. Ma questo non significa che la ragnatela mostrata oggi debba trattare quel blocco come ancora valido senza limiti di tempo — vedi [[Decadenza e rinnovo delle competenze]] per la distinzione tra il registro immutabile (livello 1) e la vista attuale calcolata (livello 2), che applica finestre di validità e pesi di recency senza mai toccare il registro storico.
 
 ## Limite chiave da ricordare
-La blockchain risolve la **certificazione**, non la **scoperta** dei talenti. La tecnologia documenta; serve comunque un ambiente che permetta di sperimentare, sbagliare, scoprire (→ [[Visione - La scuola dei talenti]]).
+La blockchain risolve la **certificazione**, non la **scoperta** dei talenti. La tecnologia documenta; serve comunque un ambiente che permetta di sperimentare, sbagliare, scoprire (→ [[Trama - la visione]]).
 
 Collegamenti: [[Il nodo GDPR e i minori]] · [[Il modello ibrido uomo-macchina]] · [[Cosa serve per scalare a livello nazionale]] · [[Decadenza e rinnovo delle competenze]]

@@ -35,13 +35,13 @@ Arriva tardi: presuppone una scelta già fatta a 14-15 anni. Rischio di canalizz
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Alterna teoria e pratica reale in azienda, valuta per competenze e non per nozioni, e ha già un quadro europeo di competenze — EQF, ECVET, ESCO, Europass digitale — che fa esattamente ciò che serve al sistema: descrivere, accumulare e trasferire competenze certificate tra Paesi.
 
 ### 🔴 Conflitti
-Arriva troppo tardi e per la ragione sbagliata: presuppone una scelta già fatta a 14-15 anni, spesso dettata dall'origine sociale più che dall'inclinazione, e risponde alla domanda del mercato del lavoro invece che al talento della persona. È la canalizzazione precoce che la [[Visione - La scuola dei talenti|visione]] vuole evitare.
+Arriva troppo tardi e per la ragione sbagliata: presuppone una scelta già fatta a 14-15 anni, spesso dettata dall'origine sociale più che dall'inclinazione, e risponde alla domanda del mercato del lavoro invece che al talento della persona. È la canalizzazione precoce che la [[Trama - la visione|visione]] vuole evitare.
 
 ### 🟡 Gap
 Nessuna fase di scoperta a monte: il sistema duale è magnifico nel portare a destinazione, pessimo nel decidere quale sia la destinazione.

@@ -35,13 +35,13 @@ Nessuna garanzia che un talento venga scoperto: se il ragazzo non ci arriva da s
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 Percorso continuo 4-19 anni senza divisione in cicli, età miste, nessun voto, nessuna competizione. La tesi finale con difesa davanti a una commissione è una certificazione basata su una prova reale, non su un punteggio.
 
 ### 🔴 Conflitti
-Contraddice il ruolo dell'educatore-osservatore: l'adulto non deve guidare né identificare nulla, ha un voto pari a quello dello studente. Se il talento non emerge spontaneamente, il modello accetta che non emerga. La [[Visione - La scuola dei talenti|mia visione]] sostiene invece che serva un sistema attivo di scoperta.
+Contraddice il ruolo dell'educatore-osservatore: l'adulto non deve guidare né identificare nulla, ha un voto pari a quello dello studente. Se il talento non emerge spontaneamente, il modello accetta che non emerga. La [[Trama - la visione|mia visione]] sostiene invece che serva un sistema attivo di scoperta.
 
 ### 🟡 Gap
 Nessuna documentazione strutturata del percorso, nessuna tassonomia, nessun profilo. La libertà totale non produce dati: alla fine si ha una tesi e una difesa, cioè una fotografia finale invece di un film.

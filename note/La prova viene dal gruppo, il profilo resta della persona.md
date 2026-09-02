@@ -40,4 +40,4 @@ E ne segue un rovesciamento della frase di Robinson sul copiare: in un sistema i
 
 **Isolare il contributo individuale dentro un lavoro collettivo è difficile**, ed è precisamente il punto in cui un sistema automatico può sbagliare senza che nessuno se ne accorga. È un argomento a favore della doppia firma, non contro il principio: la registrazione automatica documenta che cosa è accaduto nel gruppo, l'educatore umano stabilisce e sottoscrive chi ha fatto che cosa, e ne risponde (vedi [[Il modello ibrido uomo-macchina]]).
 
-Collegamenti: [[Il precedente Robinson - perché la diagnosi non basta]] · [[La ragnatela delle competenze]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Il modello ibrido uomo-macchina]] · [[L'intento come competenza]] · [[Visione - La scuola dei talenti]]
+Collegamenti: [[Il precedente Robinson - perché la diagnosi non basta]] · [[La ragnatela delle competenze]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Il modello ibrido uomo-macchina]] · [[L'intento come competenza]] · [[Trama - la visione]]

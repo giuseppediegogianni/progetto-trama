@@ -35,7 +35,7 @@ Richiede che il talento sia già identificato al momento dell'ammissione: selezi
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 La revisione annuale del portfolio davanti a una commissione è valutazione autentica: si giudica ciò che hai prodotto, non ciò che ricordi. Il modello porta il talento fino al livello professionale, che è il mio obiettivo dichiarato.
@@ -47,7 +47,7 @@ Conflitto frontale: seleziona il talento all'ingresso invece di scoprirlo. Chi n
 Copre un solo asse della ragnatela e solo dai 14 anni. Nessuna osservazione precoce, nessun percorso per chi non ha ancora un talento manifesto.
 
 ### 💡 Cosa posso rubare
-La commissione multipla che valuta il portfolio: è già il team multidisciplinare anti-bias della [[Visione - La scuola dei talenti]], applicato però solo all'arte. Il modello di governance della valutazione è replicabile su tutti gli assi.
+La commissione multipla che valuta il portfolio: è già il team multidisciplinare anti-bias della [[Trama - la visione]], applicato però solo all'arte. Il modello di governance della valutazione è replicabile su tutti gli assi.
 
 ## Punteggio di allineamento sulle 12 dimensioni
 | Dimensione | Punteggio |

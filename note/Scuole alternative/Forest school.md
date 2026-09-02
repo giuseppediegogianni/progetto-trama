@@ -35,7 +35,7 @@ Copre solo la prima infanzia; non produce alcuna certificazione spendibile; dipe
 
 ---
 
-## Confronto con [[Visione - La scuola dei talenti|il mio modello]]
+## Confronto con [[Trama - la visione|il mio modello]]
 
 ### 🟢 Somiglianze
 È letteralmente l'ambiente esplorativo che immaginavo: natura, orti, animali, rischio calibrato. Nessun voto, osservazione riflessiva continua, il bambino partecipa alla valutazione di sé.

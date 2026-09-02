@@ -1,4 +1,4 @@
-# La Scuola dei Talenti
+# Trama
 
 Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva dei talenti, valutazione multi-dimensionale non gerarchica ("la ragnatela delle competenze"), certificazione su blockchain, validazione ibrida uomo-macchina.
 
@@ -7,13 +7,15 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 **Position paper — versione corrente:** 2.0, revisione del 2 settembre 2026
 **Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./LICENSE.md)
 
+> **Nota sul nome.** Questo progetto è stato pubblicato dal 30 luglio al 2 settembre 2026 con il nome **"La Scuola dei Talenti"**. Il 2 settembre 2026 è stato rinominato **Trama** per evitare l'omonimia con un libro di altro autore. Contenuto, sviluppo e paternità sono i medesimi: la cronologia dei commit di questo repository conserva la denominazione originale e ne costituisce la prova.
+
 ---
 
 ## Cos'è questo repository
 
 Questo repository raccoglie, in ordine cronologico di elaborazione, lo sviluppo pubblico e datato di un modello educativo originale. Contiene:
 
-- **[La-Scuola-dei-Talenti-Position-Paper.md](./La-Scuola-dei-Talenti-Position-Paper.md)** — il documento di sintesi: cosa propone il modello, quali elementi sono originali, quali si appoggiano a infrastrutture e standard preesistenti (esplicitamente citati), e le questioni dichiaratamente aperte.
+- **[Trama-Position-Paper.md](./Trama-Position-Paper.md)** — il documento di sintesi: cosa propone il modello, quali elementi sono originali, quali si appoggiano a infrastrutture e standard preesistenti (esplicitamente citati), e le questioni dichiaratamente aperte.
 - **[note/](./note)** — l'insieme completo delle note di lavoro, una per concetto, con i collegamenti tra le idee così come si sono sviluppate.
 
 Le versioni precedenti di ogni documento restano leggibili nella cronologia dei commit di questo repository, che è essa stessa parte della prova di anteriorità: non vengono conservate come file separati nel repository.
@@ -40,11 +42,11 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 14. **Il precedente Robinson** — la diagnosi è del 2010 e non è di questo progetto; ciò che è di questo progetto è il meccanismo che la diagnosi non conteneva. Include ciò che il modello esplicitamente non assume.
 15. **La prova viene dal gruppo, il profilo resta della persona** — risposta all'obiezione dell'atomizzazione: nessun blocco della ragnatela nasce da una prestazione isolata.
 
-Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./La-Scuola-dei-Talenti-Position-Paper.md).
+Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./Trama-Position-Paper.md).
 
 ## Come citare questo lavoro
 
-> Giuseppe-Diego Gianni, *"La Scuola dei Talenti"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository](https://github.com/giuseppediegogianni/scuola-dei-talenti)
+> Giuseppe-Diego Gianni, *"Trama"*, repository pubblico, prima pubblicazione 30 luglio 2026. [URL del repository](https://github.com/giuseppediegogianni/progetto-trama)
 
 ## Contatti
 
