@@ -32,6 +32,14 @@ Un caso concreto del 2025 (documentato dal white paper WEF *"New Economy Skills:
 ### Anche i blocchi decadono
 Vedi [[Decadenza e rinnovo delle competenze]]: la doppia firma certifica che una competenza era vera in un momento preciso, non che lo sia ancora oggi. Serve un meccanismo di rinnovo per le competenze verificate puntualmente, ispirato alle certificazioni industriali (Microsoft, Cisco, CompTIA, GIAC).
 
+### Chi firma per il bambino: il genitore (decisione 1 set 2026)
+Il genitore non è un validatore. Firma la valutazione del figlio per **presa visione**, non per validazione — fino alla sua età adulta, come oggi firma la pagella. In questo è assistito da psicologi e pedagogisti che lo aiutano a riconoscere quello che è stato identificato nel bambino: ci si aspetta che firmi volentieri, e che una generazione più aperta all'unicità e refrattaria alla standardizzazione accetti il sistema. Se comunque rifiuta di firmare in un caso clinico dove il rifiuto priverebbe il bambino di servizi specializzati, interviene il tribunale per l'infanzia.
+
+Questo sostituisce la formulazione precedente, in cui il genitore "collaborava con l'IA per validare i risultati dei test": la firma di validazione resta sull'educatore (vedi sopra); il genitore prende visione.
+
+### Cosa succede se una lettura è sbagliata (decisione 2 set 2026)
+Nessun meccanismo di ricorso formale. Non serve: un bambino descritto come "apatico" a sei anni non lo sarà a quaranta, perché conta il percorso e come la persona evolve, non la macchia sul foglio del giorno — lo stesso vale per le proprie pagelle delle elementari, che nessuno può "contestare" col senno di poi. Il rimedio è il confronto immediato: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato. Un profilo iniziale negativo non impedisce di crescere come persona perfettamente compatibile con la società da adulto.
+
 ## L'IA come attrezzo, non solo come minaccia esterna
 Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica alla trasformazione del mercato del lavoro descritta in [[La nave per un porto sommerso - IA e automazione]]: la stessa tecnologia che rende incerto il futuro professionale dei ragazzi è quella che rende costruibile, oggi, un sistema capace di seguirli uno per uno su scala nazionale.
 
