@@ -33,6 +33,10 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 7. **Decadenza e rinnovo delle competenze** — le competenze non sono permanenti; il registro storico resta immutabile, la vista attuale si aggiorna.
 8. **Blockchain educativa permissioned** — hash on-chain, dati fuori catena, tutela GDPR dei minori.
 9. **Il tempo e l'ingresso a qualunque età** — la traiettoria conta più della fotografia di un momento; si entra anche a metà percorso.
+10. **L'intento come competenza** — sapere cosa si vuole, saperlo dire, saper giudicare il risultato: un asse trasversale, e la seconda ragione per cui le basi comuni restano per tutti.
+11. **Perché il modello non poggia su una previsione** — criterio costruttivo: il sistema è progettato per l'incertezza, non per uno scenario, e non è falsificato dal fatto che una previsione non si avveri.
+12. **Come si introduce un modello nuovo** — tre principi di metodo: il precedente normativo più vicino invece di una norma nuova; il pubblico che abilita invece di costruire; l'orizzonte dichiarato come profezia che si autoavvera.
+13. **Il rifiuto dello strumento** — questione aperta: un sistema che riconosce l'unicità deve poter descrivere anche chi rifiuta lo strumento con cui lo si riconosce.
 
 Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./La-Scuola-dei-Talenti-Position-Paper.md).
 
