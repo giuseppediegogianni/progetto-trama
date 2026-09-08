@@ -84,7 +84,7 @@ La struttura è **frattale**: ogni punta della ragnatela madre (per esempio "sci
 
 Un punto decisivo, e spesso frainteso: **la ragnatela registra attitudini cognitive, non mestieri**. Non dice "bravo in musica": registra le attitudini cognitive comuni ai musicisti — e ad altri profili. La traduzione in un mestiere è fisiologica e non esclude le altre strade: chi ha attitudini per la musica può benissimo diventare medico con altre doti. È anche la risposta più corta all'accusa di etichettare un bambino troppo presto.
 
-Gli assi **non sono fissi**. Nell'infanzia si osservano tratti primitivi — psicomotricità, socialità, aggressività, apatia; col tempo vengono sostituiti da scienze, comunicazione, empatia, leadership, cioè dai requisiti dei ruoli a cui la persona potrà candidarsi.
+Gli assi **non sono fissi**. Nell'infanzia si osservano tratti primitivi — reattività sensoriale e adattamento ambientale, sviluppo relazionale e socio-emozionale, comprensione e comunicazione, e psicomotricità; col tempo vengono sostituiti da talento Llogico-matematico e scientifico, talento creativo-visivo e spaziale, talento verbale-linguistico, talento fisico-motorio, e talento sociale (intelligenze interpersonale e intrapersonale),  cioè dai requisiti dei ruoli a cui la persona potrà candidarsi.
 
 Il modello copre insieme soft skills — leadership, parlare in pubblico, problem solving — hard skills e percorsi sportivi.
 
