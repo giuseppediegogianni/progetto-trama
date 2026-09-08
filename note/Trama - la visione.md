@@ -9,11 +9,13 @@ tags: [libro, idea, visione]
 Un ecosistema educativo **continuo**, dalla prima infanzia all'età adulta, senza la divisione rigida elementari–medie–superiori. Un percorso unico che accompagna il ragazzo fino al mondo del lavoro (che nel frattempo si è completamente trasformato).
 
 ## Principi fondanti
-- La scuola non è nozionistica: è un luogo dove i ragazzi **identificano** i propri talenti e li portano al massimo delle loro potenzialità.
+- La scuola non è nozionistica: è un luogo dove i ragazzi **scoprono e sviluppano** i propri talenti secondo interessi e obiettivi che prendono forma nel tempo, senza un obbligo di massimizzare ogni area.
 - Non classi per età, ma **ambienti ricchi di stimoli**: natura, orti, animali, scienze, teatro, sport, socialità.
 - Gli educatori non sono specialisti di materia ma esperti di **psicologia dello sviluppo** (pedopsichiatria): osservatori-mentori capaci di riconoscere doti e inclinazioni fin dalla piccola infanzia.
 - Il ragazzo segue il proprio ritmo; il teatro e la socialità lo mettono di fronte ai propri limiti (introversione/estroversione) come occasioni di crescita, non di giudizio.
-- Anche i genitori fanno parte del processo di osservazione e scoperta.
+- Anche i genitori fanno parte del processo di osservazione e scoperta, con sostegno e pazienza, senza assegnare una destinazione professionale.
+- La [[La ragnatela delle competenze|ragnatela]] evolve dalle dimensioni dello sviluppo infantile alle aree di talento logico-matematico e scientifico, creativo-visivo e spaziale, verbale-linguistico, fisico-motorio e sociale. Le aree restano una proposta da precisare e verificare.
+- Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva, attraverso attività senza assistenza o mediazione dell'IA.
 
 ## Contromisure ai bias degli educatori
 - **Triangolazione**: team multidisciplinari che osservano ogni ragazzo da angolazioni diverse.

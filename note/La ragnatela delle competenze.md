@@ -4,7 +4,7 @@ tags: [libro, idea, valutazione]
 
 # La ragnatela delle competenze
 
-La valutazione di ogni ragazzo ha la forma di una **ragnatela** (radar chart): ogni punta è un'area — scienze, scienze sociali, materie letterarie (giornalismo, scrittura, narrativa), sport, comunicazione, arte, ecc.
+La valutazione di ogni ragazzo ha la forma di una **ragnatela** (radar chart): gli assi rappresentano dimensioni dello sviluppo e, con la crescita, aree di talento più differenziate. La definizione delle aree è una proposta di Trama, da precisare e verificare.
 
 ## ⚠️ Cosa NON è (correzione importante)
 La ragnatela **non è un bersaglio da massimizzare né una forma da abbellire.** Non è un punteggio di cui vergognarsi o vantarsi. È una **fotografia onesta e accettata così com'è**, perché la sua stessa asimmetria — vuoti compresi — è l'informazione utile: rispecchia l'unicità del soggetto.
@@ -13,15 +13,36 @@ Chi deve ingaggiare qualcuno (un gruppo musicale, un cantiere, una squadra, un p
 
 **La sola forma legittima di "miglioramento" è quella ancorata a un desiderio concreto**, non alla vanità da classifica: vedi [[Il mercato delle opportunità - progetto, soglia, coach]] per come funziona nel modello.
 
+## Dimensioni dello sviluppo e aree di talento
+
+Nell'infanzia si osservano:
+- reattività sensoriale e adattamento ambientale;
+- sviluppo relazionale e socio-emozionale;
+- comprensione e comunicazione;
+- psicomotricità.
+
+Con la crescita, la rappresentazione si articola in:
+- talento logico-matematico e scientifico;
+- talento creativo-visivo e spaziale;
+- talento verbale-linguistico;
+- talento fisico-motorio;
+- talento sociale, comprendendo la conoscenza di sé e la comprensione degli altri.
+
+Le dimensioni iniziali continuano a evolvere: non vengono cancellate o sostituite da categorie professionali. Le aree accompagnano la scoperta degli interessi e possono essere collegate alle attività, ai progetti e ai ruoli che la persona sceglie di esplorare. Non costituiscono diagnosi, identità definitive o una tassonomia scientifica già validata.
+
+Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva. Le attività dedicate a questa dimensione si svolgono senza assistenza o mediazione dell'IA; gioco, confronto e lavoro comune offrono occasioni per esercitare ascolto, pazienza e gestione delle relazioni.
+
+Riferimento di sintesi: sezioni 3.1 e 3.13 del [Position Paper](../Trama-Position-Paper.md). Per fonti e limiti: [[Fonti su apprendimento e IA]].
+
 ## Struttura frattale: ragnatele e sotto-ragnatele
 La ragnatela ha una struttura **a zoom, non piatta**:
-- La **ragnatela madre** mostra le macro-aree: scienze, arti, sociale, sport, comunicazione...
+- La **ragnatela madre** mostra le dimensioni o le aree sopra descritte, secondo la fase di sviluppo.
 - Ogni punta si può **aprire in una sotto-ragnatela**: se la madre dice "forte in scienze", lo zoom-in mostra in quali scienze — fisica, chimica, biologia — è più forte o più debole.
 - Il processo si ripete: sotto-sotto-ragnatele, quanto serve, in ogni direzione.
 - Ogni livello si costruisce da **fonti miste**, non da un solo tipo di prova: partecipazione reale a progetti di gruppo o lavori individuali, ma anche corsi seguiti online, colloqui con esperti del settore, test sulla piattaforma centralizzata, dati raccolti dai sistemi IoT (i sensori nell'orto, gli strumenti usati dal coach sportivo), gare vinte o competizioni affrontate. È lo stesso principio dei "sensi del sistema" descritto in [[Il modello ibrido uomo-macchina]]: dati grezzi raccolti in molti modi diversi, poi interpretati e convalidati da un umano prima di diventare un blocco della ragnatela.
 
 ### Un secondo pilastro: la Education 4.0 Taxonomy del WEF
-Oltre a ESCO, esiste una seconda tassonomia — la **Education 4.0 Taxonomy** (WEF + Fondazione LEGO, 2023) — pensata specificamente per bambini, non per il mercato del lavoro adulto: si fonda su abilità e competenze, atteggiamenti e valori, conoscenza e informazione. È probabilmente il candidato migliore per gli assi della ragnatela madre, mentre ESCO e la Global Skills Taxonomy del WEF restano i candidati per le sotto-ragnatele più tecniche. Vedi la mappa completa in [[Lo stack a quattro livelli - come si collega tutto]].
+Oltre a ESCO, esiste una seconda tassonomia — la **Education 4.0 Taxonomy** (WEF + Fondazione LEGO, 2023) — pensata specificamente per bambini, non per il mercato del lavoro adulto: si fonda su abilità e competenze, atteggiamenti e valori, conoscenza e informazione. È un riferimento da confrontare con le dimensioni e le aree proposte da Trama; ESCO e la Global Skills Taxonomy del WEF possono aiutare a descrivere competenze tecniche e collegamenti alle opportunità. La corrispondenza va progettata e verificata, senza ricavare gli assi infantili dai requisiti professionali. Vedi la mappa completa in [[Lo stack a quattro livelli - come si collega tutto]].
 
 ### Un precedente reale già pronto: ESCO
 Non serve disegnare questa tassonomia frattale da zero. La classificazione europea **ESCO** (European Skills, Competences, Qualifications and Occupations) organizza già quasi 14.000 concetti di competenze e conoscenze in una struttura gerarchica a più livelli, con relazioni tra competenze e occupazioni marcate come "essenziali" o "opzionali" a seconda del contesto — pensata apposta per far incontrare elettronicamente candidati e opportunità sulla base delle competenze possedute. Ogni sotto-ragnatela potrebbe agganciarsi a un ramo già esistente di ESCO invece di inventare la tassonomia da capo (vedi anche [[Cosa serve per scalare a livello nazionale]] e [[Scuole alternative/Technical school - VET duale]]).
@@ -37,10 +58,10 @@ Dalla ricerca in [[00 - Confronto scuole alternative]]: nessuna delle 10 scuole 
 ⚠️ Nota per il libro: chi definisce gli assi della ragnatela detiene un potere pedagogico enorme → serve una **tassonomia nazionale condivisa** delle competenze. L'Europa ha già gli strumenti (EQF, ESCO, ECVET) — vedi [[Scuole alternative/Technical school - VET duale]].
 
 ## Perché regge contro l'automazione
-Gli assi non accademici della ragnatela — sociale, comunicazione, arte, sport, leadership — non sono un'aggiunta decorativa: coincidono quasi esattamente con le competenze che i report sul futuro del lavoro indicano come resistenti all'IA (creatività, empatia, adattabilità, giudizio etico, pensiero critico). Vedi [[La nave per un porto sommerso - IA e automazione]].
+Le aree di talento proposte comprendono dimensioni creative, verbali, motorie e sociali accanto a quella logico-matematica e scientifica. Capacità come empatia, adattabilità e giudizio possono attraversare più aree: non definiscono automaticamente assi separati o ruoli professionali. Il confronto con il lavoro è sviluppato in [[La nave per un porto sommerso - IA e automazione]].
 
 ### Conferma diretta dal Future of Jobs Report 2025 (WEF)
-Nella classifica delle competenze core del 2025, gli assi "non accademici" battono già oggi le materie tradizionali secondo gli stessi datori di lavoro: pensiero analitico 69%, resilienza/flessibilità 67%, leadership 61%, pensiero creativo 57% — tutte sopra l'alfabetizzazione tecnologica (51%) e sopra AI e big data (45%). In fondo alla classifica, al 21° posto su 23: lettura, scrittura e matematica, ferme al 21%; la programmazione è ultima al 17%. Non è un'opinione: è la scala di priorità dichiarata dal mercato.
+Nella classifica delle competenze core del 2025, le capacità richiamate dai datori di lavoro comprendono: pensiero analitico 69%, resilienza/flessibilità 67%, leadership 61%, pensiero creativo 57% — tutte sopra l'alfabetizzazione tecnologica (51%) e sopra AI e big data (45%). In fondo alla classifica, al 21° posto su 23: lettura, scrittura e matematica, ferme al 21%; la programmazione è ultima al 17%. Non è un'opinione: è la scala di priorità dichiarata dal mercato.
 
 ### ⚠️ Correzione importante: le competenze decadono, la ragnatela deve saperlo
 Il white paper WEF *"Unlocking the Human Advantage"* mostra che le competenze umane-centriche sono fragili, non permanenti: durante il COVID sono calate nettamente e nel 2025 non sono ancora tornate ai livelli pre-2019. Un blocco scritto una volta nella ragnatela e mai più aggiornato rischia di certificare qualcosa che non è più vero. Soluzione completa in [[Decadenza e rinnovo delle competenze]]: due tipi di decadenza (dati continui vs. verifica puntuale), un'architettura a due livelli (registro immutabile + vista attuale calcolata), ispirata al modello delle certificazioni industriali (Microsoft, Cisco, CompTIA, GIAC).

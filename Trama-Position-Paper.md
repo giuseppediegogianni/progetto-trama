@@ -106,7 +106,7 @@ Portare un bambino in una sala da concerto con maestri che suonano e osservare l
 
 Il sistema non aspetta che il ragazzo si faccia avanti: **va a cercarlo**, con adulti pagati per farlo. È la differenza strutturale rispetto a tutte le proposte che si limitano a garantire l'accesso a un'offerta.
 
-Anche i tratti che oggi si considerano problemi sono materia di questo lavoro. A sei anni un bambino non sa cosa vuole, ma manifesta subito carattere e attitudini: vanno messi in evidenza, corretti se ostili alla convivenza, oppure trasformati — l'aggressività che diventa leadership, o sport — per trovargli il suo posto.
+Anche le difficoltà osservate sono materia di questo lavoro. Nell'infanzia si descrivono reazioni e comportamenti nel loro contesto: come il bambino risponde agli stimoli, comunica, si muove e si relaziona. Gli adulti propongono esperienze e sostegno adeguati, intervenendo sui comportamenti ostili alla convivenza senza trasformarli in etichette personali o dedurne automaticamente un talento futuro.
 
 ### 3.4 Il mercato delle opportunità: progetto, soglia, coach
 
@@ -130,11 +130,11 @@ Nella prima infanzia gli educatori restano umani: il calore e lo sguardo umano n
 
 ### 3.6 Chi è l'educatore della prima infanzia
 
-L'ipotesi di lavoro del modello è che questa figura sia **un insegnante**, sul modello di quello che oggi è il maestro della scuola materna: una persona con formazione pedagogica e competenza sull'età evolutiva, capace di leggere le attitudini, le capacità cognitive e il modo in cui il bambino si relaziona con l'ambiente e con gli altri — se è aggressivo, apatico, socievole — e in parte con competenze psicologiche.
+L'ipotesi di lavoro del modello è che questa figura sia **un insegnante**, sul modello di quello che oggi è il maestro della scuola materna: una persona con formazione pedagogica e competenza sull'età evolutiva, capace di leggere le attitudini, le capacità cognitive e il modo in cui il bambino si relaziona con l'ambiente e con gli altri — reattività sensoriale e adattamento ambientale, sviluppo relazionale e socio-emozionale, comprensione e comunicazione, psicomotricità — e in parte con competenze psicologiche.
 
 > **Verifica aperta.** Quale sia effettivamente oggi la formazione degli insegnanti della scuola dell'infanzia, in Italia e in Europa, è una verifica che questo documento lascia aperta: il modello poggia su questa ipotesi e va confermata prima di darla per acquisita.
 
-È lui che firma la validazione del profilo: le reazioni del bambino agli stimoli e all'interazione con i dispositivi vengono registrate dalle macchine e tradotte nella ragnatela dei talenti, delle capacità e delle attitudini psicomotorie; l'insegnante conferma che quello è il profilo del bambino.
+È lui che firma la validazione del profilo: le reazioni del bambino agli stimoli e all'interazione con i dispositivi vengono registrate dalle macchine e riferite alle dimensioni dello sviluppo descritte in 3.1 e rappresentate nella ragnatela; l'insegnante conferma che quello è il profilo del bambino.
 
 **Il mentoring evolve nel tempo.** Si parte da un umano che segue il bambino consultando l'intelligenza artificiale, e il ruolo si sposta progressivamente su un'intelligenza artificiale che la persona porta con sé per tutta la vita: un mentore personale che la conosce da quando era piccola, e che le permette di colmare i livelli mancanti ogni volta che cambia rotta — per esempio da programmatore a dirigente.
 
@@ -166,9 +166,9 @@ Il tempo, in questo modello, **non è normativo**. Se un ragazzo non apre un ass
 
 Quello che conta non è la fotografia di oggi, né quella di cinque anni fa presa fuori contesto, ma **il percorso e la capacità di adattamento** che la persona dimostra. Le osservazioni della prima infanzia pesano poco sul profilo, e il peso cambia man mano che il ragazzo cresce. Anche una traiettoria senza evoluzione ha valore: dimostra compatibilità con certi ambienti.
 
-Da qui discende la risposta al timore della lettura sbagliata. Un bambino descritto come apatico a sei anni non sarà necessariamente apatico a quaranta: avrà vissuto esperienze, interagito col mondo, e sarà evoluto. Conta meno la macchia sul foglio, e molto di più come evolve la persona. Il rimedio immediato non è un ricorso formale ma il confronto: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato.
+Da qui discende la risposta al timore della lettura sbagliata. Una scarsa partecipazione osservata a sei anni in una determinata attività non definisce la persona: il contesto, le esperienze e il suo sviluppo possono modificare ciò che emerge. Conta meno la macchia sul foglio, e molto di più come evolve la persona. Il rimedio immediato non è un ricorso formale ma il confronto: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato.
 
-Per la stessa ragione **si entra a qualunque età**. Un ragazzo che arriva a quattordici anni da un'altra scuola o da un altro paese, senza nessuna osservazione registrata, viene osservato da zero come un bambino di sei anni, ma con strumenti adattati alla sua età: workshop, atelier, attività stimolanti da cui capire se è sociale o apatico, se è un leader, che cosa lo accende. Anche a quattordici anni si ottiene una fotografia precisa, su cui può riconoscersi — "non mi ero mai accorto di essere bravo nei calcoli", oppure scoprire che la matematica che gli piace è quella applicata alla musica. **Il tempo che gli manca non è un vuoto: la ragnatela comincia dalla fotografia del giorno in cui entra.**
+Per la stessa ragione **si entra a qualunque età**. Un ragazzo che arriva a quattordici anni da un'altra scuola o da un altro paese, senza nessuna osservazione registrata, viene osservato da zero come un bambino di sei anni, ma con strumenti adattati alla sua età: workshop, atelier, attività stimolanti attraverso cui osservare come comunica, affronta problemi, si esprime, si muove e si relaziona, e quali interessi emergono. Anche a quattordici anni si ottiene una fotografia precisa, su cui può riconoscersi — "non mi ero mai accorto di essere bravo nei calcoli", oppure scoprire che la matematica che gli piace è quella applicata alla musica. **Il tempo che gli manca non è un vuoto: la ragnatela comincia dalla fotografia del giorno in cui entra.**
 
 ### 3.11 L'intelligenza artificiale come doppia leva
 

@@ -17,7 +17,7 @@ tags: [libro, idea, implementazione]
 - Legge nazionale dedicata (vedi [[Il nodo GDPR e i minori]]).
 
 ## Piano organizzativo
-- **Tassonomia nazionale condivisa delle competenze**: decidere insieme quali sono gli assi della [[La ragnatela delle competenze|ragnatela]], come si misura un progresso, cosa costituisce un blocco valido. Anni di lavoro tra pedagogisti, psicologi dello sviluppo e ministero. Non serve inventarla da zero: l'Europa ha già EQF, ESCO, ECVET (vedi [[Scuole/Technical school - VET duale]]).
+- **Tassonomia nazionale condivisa delle competenze**: precisare e verificare le dimensioni dello sviluppo e le aree di talento della [[La ragnatela delle competenze|ragnatela]], come si descrive un progresso e cosa costituisce un blocco valido. Il lavoro coinvolge pedagogisti, psicologi dello sviluppo e istituzioni. Le infrastrutture europee possono aiutare a collegare competenze e qualifiche alle opportunità; non definiscono da sole gli assi infantili (vedi [[Scuole alternative/Technical school - VET duale]]).
 - **Formazione**: centinaia di migliaia di insegnanti da riqualificare come osservatori-mentori — il ruolo più simile oggi è il pedagogista di [[Scuole/Reggio Emilia]].
 
 ## Piano economico e politico

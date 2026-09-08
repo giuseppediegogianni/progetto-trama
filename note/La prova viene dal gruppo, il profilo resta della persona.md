@@ -28,7 +28,7 @@ Il principio è in larga parte già implicito nel modello; enunciarlo lo rende v
 
 1. **I dati che alimentano la ragnatela provengono da contesti collettivi**, non da prestazioni isolate: partecipazione a progetti reali — un cantiere, una cucina, un laboratorio, una squadra, un gruppo musicale — dove il comportamento osservabile è già relazionale (vedi [[Il mercato delle opportunità - progetto, soglia, coach]]).
 2. **Le soglie sono soglie di ingresso a un gruppo che sta facendo qualcosa**, non voti di ammissione a un livello astratto. Il fine dichiarato dell'apprendimento mirato è entrare in quel gruppo.
-3. **Gli assi non accademici sono misurabili solo dentro un gruppo.** Collaborazione, comunicazione, leadership, capacità di stare con gli altri non hanno una versione individuale: non esiste un test somministrabile a una persona sola che dica se sa lavorare con le altre.
+3. **Le capacità relazionali richiedono esperienze con altre persone.** Nel talento sociale rientrano la conoscenza di sé e la comprensione degli altri. Collaborazione, comunicazione e leadership si osservano nelle interazioni concrete; non esauriscono l'intera area sociale e non definiscono tutte le aree della ragnatela. Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva, con attività senza assistenza o mediazione dell'IA.
 
 Ne segue un criterio di controllo applicabile a ogni asse: **nessun blocco della ragnatela dovrebbe poter nascere da una prestazione isolata.** Se un asse può essere riempito solo da una prova somministrata a una persona sola in una stanza, quell'asse è progettato male.
 

@@ -20,7 +20,7 @@ Se il fattore limitante di uno strumento generale è la formulazione dell'intent
 
 ## Perché è un asse della ragnatela, e non una tecnica
 
-Gli assi della ragnatela non sono fissi: corrispondono ai requisiti dei mondi a cui una persona si candida (vedi [[La ragnatela delle competenze]]). Se il fattore limitante comune a ogni mestiere che passa attraverso una macchina è la formulazione dell'intento, quello è un requisito trasversale, quindi un asse.
+Gli assi della ragnatela evolvono dalle dimensioni dello sviluppo infantile alle aree di talento, senza coincidere con i requisiti dei mestieri (vedi [[La ragnatela delle competenze]]). Formulare il proprio intento attraversa queste aree e permette alla persona di scegliere obiettivi e strumenti: è in questo senso una competenza trasversale da rappresentare, con modalità ancora da definire.
 
 Non va chiamato "prompting": è un termine legato a un'interfaccia particolare di un momento particolare, e invecchia in mesi. La cosa che descrive è più antica e più stabile — è ciò che si chiede a un committente, a un direttore, a chiunque debba far fare a qualcun altro una cosa che ha in mente. **Saper dire a un esecutore che cosa serve, e riconoscere quando l'ha fatto.** Si può allenare fin da piccoli e non richiede un computer per essere esercitata.
 

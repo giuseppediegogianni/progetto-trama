@@ -47,7 +47,7 @@ Arriva troppo tardi e per la ragione sbagliata: presuppone una scelta già fatta
 Nessuna fase di scoperta a monte: il sistema duale è magnifico nel portare a destinazione, pessimo nel decidere quale sia la destinazione.
 
 ### 💡 Cosa posso rubare
-**EQF ed ECVET sono il regalo più grande di tutta questa ricerca**: la tassonomia nazionale delle competenze non va inventata da zero, esiste già un'infrastruttura europea di descrittori a cui agganciare gli assi della [[La ragnatela delle competenze|ragnatela]]. E Europass digitale è già una credenziale verificabile emessa da uno Stato — vedi [[Blockchain educativa]].
+**Il raccordo con qualifiche e competenze europee** offre riferimenti per collegare le capacità sviluppate alle opportunità e alle credenziali. Non definisce automaticamente le dimensioni infantili o le aree di talento della [[La ragnatela delle competenze|ragnatela]], che restano una proposta del modello da verificare. Per il tema delle credenziali digitali, vedi [[Blockchain educativa]].
 
 ## Punteggio di allineamento sulle 12 dimensioni
 | Dimensione | Punteggio |
