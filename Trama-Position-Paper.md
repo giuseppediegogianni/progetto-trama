@@ -198,7 +198,7 @@ Queste capacità adattive sono requisiti proposti per il sistema. La loro effica
 
 ### 3.13 Gli spazi della relazione umana
 
-Trama riserva alla relazione umana diretta la formazione dell'empatia, della pazienza, del rispetto reciproco, della cooperazione e della leadership. Le attività dedicate a queste dimensioni si svolgono senza assistenza o mediazione dell'IA. Comprendono gioco, confronto, lavoro comune, responsabilità condivise e gestione dei conflitti, con la presenza degli educatori quando necessaria.
+Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva. Le attività dedicate a questa dimensione si svolgono senza assistenza o mediazione dell'IA. Comprendono gioco, confronto, lavoro comune, responsabilità condivise e gestione dei conflitti, con la presenza degli educatori quando necessaria.
 
 Sono esperienze nelle quali si incontra una persona con desideri, tempi e punti di vista propri. Si impara ad ascoltarla, attendere, negoziare, assumersi responsabilità e riparare una relazione dopo un errore. Gli educatori creano le condizioni perché questi incontri siano sicuri e rispettosi, lasciando ai ragazzi lo spazio per viverli e affrontarne le difficoltà.
 
