@@ -17,12 +17,15 @@ App, giochi educativi e sensori IoT validano le interazioni dello studente; un d
 ## I tre problemi seri
 1. **Sorveglianza**: sarebbe il più grande sistema di monitoraggio di minori mai concepito. La differenza tra "osservare per far fiorire" e "profilare una generazione" sta solo nella governance, non nella tecnologia. Servono: autorità indipendente dal ministero, trasparenza totale verso i genitori, divieto assoluto di usi secondari (assicurazioni, selezione lavorativa, polizia predittiva).
 2. **Legge di Goodhart**: il sistema misura solo il misurabile digitalmente. Empatia, leadership, coraggio del timido che alza la mano — le cose più preziose sono quelle che i sensori catturano peggio. Quando la misura diventa obiettivo, smette di essere una buona misura. E chi progetta le app decide di fatto cosa conta come talento. [[Scuole/Online school]] è il caso da manuale di questo rischio.
-3. **Divario socioeconomico**: famiglie con più dispositivi e competenze accumulerebbero blocchi più ricchi. La blockchain certificherebbe come merito ciò che in parte è vantaggio di partenza — col sigillo dell'immutabilità.
+3. **Divario socioeconomico**: famiglie con più dispositivi e competenze accumulerebbero blocchi più ricchi. La blockchain certificherebbe come merito ciò che in parte è vantaggio di partenza — col sigillo dell'immutabilità. → Risposta del modello: il **moltiplicatore del contesto** (sezione 3.14 del [Position Paper](../Trama-Position-Paper.md) e [[La ragnatela delle competenze]]), che pesa il comportamento osservato in base all'ambiente di provenienza senza scriverlo nel profilo. Resta aperta la sua taratura.
 
 ## La sintesi ibrida (scelta adottata)
 - Il sistema automatico raccoglie i **dati grezzi** delle interazioni: imparziale, scalabile, granulare. → *I sensi del sistema.*
 - I blocchi significativi della [[La ragnatela delle competenze|ragnatela]] vengono scritti **solo quando un educatore umano interpreta e convalida** quei dati. → *La coscienza del sistema.*
 - **Doppia firma** (umana + automatica) = responsabilità tracciabile: se tra quindici anni un ragazzo contesta un'osservazione fatta a otto anni, si sa quali dati c'erano e chi li ha interpretati. È ciò che rende il sistema difendibile davanti a un garante o un tribunale.
+
+### Il grezzo non si conserva (decisione 3 set 2026)
+Il materiale registrato serve a osservare, non ad archiviare: una volta letto e interpretato, viene cancellato. **Resta l'osservazione validata, non la registrazione da cui è nata.** Questo riduce la superficie del primo dei tre problemi qui sopra — un archivio che non esiste non si può consultare né riusare — e cambia la domanda su cosa vedono i genitori, che diventa una questione di finestra temporale oltre che di contenuto. Non risolve però il confine su quali dati non si raccolgono mai, che resta la prima questione aperta del position paper. Vedi [[Il nodo GDPR e i minori]].
 
 ⚠️ Nessuno dei 10 modelli studiati in [[00 - Confronto scuole alternative]] prevede questa doppia firma — è l'unica dimensione con punteggio zero ovunque, perché nessun altro modello ha un layer automatico abbastanza esteso da dover essere bilanciato.
 

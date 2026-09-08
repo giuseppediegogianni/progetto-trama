@@ -15,6 +15,11 @@ tags: [libro, idea, legale, capitolo]
 - Dati personali **fuori catena**, sulla blockchain solo gli **hash**.
 - Cancellando il dato nell'archivio protetto, l'hash sulla catena diventa un riferimento vuoto → il diritto all'oblio è rispettato.
 
+## La regola di conservazione (decisione 3 set 2026)
+Prima ancora della catena, c'è una scelta sul grezzo: **il materiale registrato si cancella una volta letto e osservato.** Quello che il sistema conserva è l'osservazione validata dall'educatore, non il video, il log o il risultato bruto del test. È minimizzazione dei dati applicata alla fonte, ed è la parte più facile da difendere davanti a un garante: il diritto all'oblio riguarda quello che resta, e quello che resta è poco. Vedi [[Il modello ibrido uomo-macchina]] e la sezione 3.5 del [Position Paper](../Trama-Position-Paper.md).
+
+Resta fuori da questa regola la domanda che la precede: **quali dati non si raccolgono mai**, indipendentemente da consenso, utilità e durata della conservazione. È la prima questione aperta del position paper.
+
 ## Ciò che la tecnica non risolve
 Serve una **legge nazionale dedicata** che definisca:
 - chi può scrivere blocchi e chi può leggerli;

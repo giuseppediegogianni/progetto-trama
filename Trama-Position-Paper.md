@@ -2,7 +2,7 @@
 
 ### Un modello educativo per l'era dell'intelligenza artificiale
 
-**Position paper — versione 2.1**
+**Position paper — versione 2.2**
 
 - **Autore:** Giuseppe-Diego Gianni
 - **Prima pubblicazione (versione 1.0):** 30 luglio 2026 — resta il primo marcatore pubblico datato di questa sintesi
@@ -86,6 +86,8 @@ Un punto decisivo, e spesso frainteso: **la ragnatela registra attitudini cognit
 
 Gli assi **non sono fissi**. Nell’infanzia si osservano dimensioni dello sviluppo — reattività sensoriale e adattamento ambientale, sviluppo relazionale e socio-emozionale, comprensione e comunicazione, psicomotricità. Con la crescita, la rappresentazione si articola in aree più differenziate: talento logico-matematico e scientifico, creativo-visivo e spaziale, verbale-linguistico, fisico-motorio e sociale, comprendendo la conoscenza di sé e la comprensione degli altri. Queste aree accompagnano la scoperta degli interessi e delle possibilità della persona e possono essere messe in relazione con le attività, i progetti e i ruoli che sceglierà di esplorare. La loro definizione resta una proposta del modello, da precisare e verificare.
 
+Il passaggio avviene per **ramificazione, non per sostituzione**: le dimensioni osservate nell'infanzia non vengono cancellate, si articolano progressivamente in aree più fini, che a loro volta possono essere messe in relazione con i fattori cognitivi già consolidati nella letteratura psicometrica — comprensione verbale, abilità visuo-spaziali, ragionamento fluido, memoria di lavoro, velocità di elaborazione. È la stessa logica frattale, applicata al tempo invece che al dettaglio. In nessun punto di questa ramificazione la ragnatela si richiude in un punteggio unico di intelligenza: la corrispondenza con quei fattori serve a rendere leggibile il profilo, non a ricavarne un quoziente. Anche questa corrispondenza è una proposta da progettare e verificare con chi lavora sulle scale esistenti.
+
 Il modello copre insieme soft skills — leadership, parlare in pubblico, problem solving — hard skills e percorsi sportivi.
 
 ### 3.2 Le basi comuni
@@ -121,6 +123,8 @@ Da questo meccanismo discende anche l'inserimento del ragazzo in **attività rem
 ### 3.5 Il modello ibrido uomo-macchina e la doppia firma
 
 La raccolta dei dati grezzi è affidata a sistemi automatici, imparziali e scalabili: interazioni con app, giochi, dispositivi connessi e sensori, e registrazioni di telecamere. Ma nessun dato diventa un blocco ufficiale della ragnatela senza che **un educatore umano lo interpreti e lo convalidi**.
+
+**Il grezzo non si conserva.** Il materiale registrato serve a osservare: una volta letto e interpretato, viene cancellato. Quello che resta nel sistema è l'osservazione validata, non la registrazione da cui è nata — e quello che l'educatore legge va pesato con il contesto di provenienza descritto in 3.14. È una regola di conservazione, non ancora il confine su quali dati non si raccolgono mai, che la sezione 5 lascia dichiaratamente aperto.
 
 Ogni blocco porta quindi una **doppia firma — automatica e umana**. I due firmatari sono la macchina e l'educatore: la firma umana serve a stabilire chi ha interpretato quel dato e in che modo, e resta tracciabile nel tempo. Non fonda un diritto di ricorso formale (vedi 3.10), ma impedisce che un'osservazione entri nel profilo senza che nessuno se ne assuma la responsabilità.
 
@@ -204,6 +208,16 @@ Sono esperienze nelle quali si incontra una persona con desideri, tempi e punti 
 
 La progettazione di Trama deve garantire strumenti adattivi per sostenere l'apprendimento e tempi protetti di esperienza umana condivisa lungo tutto il percorso. Gli spazi della relazione costituiscono una parte essenziale e intenzionale della formazione. Questa è una scelta pedagogica del modello; la sua realizzazione e i suoi esiti restano da sviluppare e verificare.
 
+### 3.14 Il contesto di provenienza e il peso dell'osservazione
+
+Lo stesso comportamento non significa la stessa cosa in tutti gli ambienti. I litigi in casa, un lutto, una separazione, la povertà, la difficoltà sociale dei genitori spiegano molte delle reazioni che un educatore osserva; e chi cresce con meno risorse sviluppa attitudini e comportamenti diversi da chi ne ha in abbondanza. Il modello tiene conto dell'ambiente, ma **non lo scrive nel profilo come dato**: nessuna riga dice che la persona "viene da un ambiente x o y", e non serve entrare nella vita privata di un bambino per osservarlo bene.
+
+L'ambiente agisce invece come un **moltiplicatore**, che dà peso al comportamento osservato. La sua direzione è deliberata: **più l'ambiente di provenienza è sfavorevole, più il moltiplicatore è alto.** Un bambino che manifesta capacità sopra la media nonostante la mancanza di stimoli è, per questo modello, un bambino dotato, e il moltiplicatore serve a segnalarlo invece di lasciarlo confondere con chi ottiene lo stesso risultato partendo con molto di più. Il valore stesso dice a chi legge da dove parte quel bambino, senza altri dettagli. All'iscrizione i genitori compilano un questionario da cui emerge la fascia sociale, ed è da lì che il moltiplicatore si ricava.
+
+Il moltiplicatore **non è fisso**: cambia con quello che la persona dimostra lungo il percorso, e si esaurisce da solo. Quando i talenti vengono identificati, alimentati con gli stimoli e riconosciuti dal mondo — "il tuo profilo mi interessa, vieni con noi" — la persona accumula esperienze proprie ed esce dall'ambiente di partenza, e con esso dal sistema del moltiplicatore.
+
+È la risposta del modello all'obiezione più seria che si può muovere alla raccolta dati automatica: senza un correttivo, un sistema che registra tutto certificherebbe come merito quello che in parte è vantaggio di partenza, e lo farebbe col sigillo dell'immutabilità. È anche il punto più contestabile della proposta, e va discusso come tale: un peso pensato per correggere un'ingiustizia, se mal tarato, ne introduce un'altra.
+
 ## 4. Cosa questo documento non è
 
 Questo è un documento di scopo, non un piano operativo. Propone di cambiare l'obiettivo della scuola e i mezzi con cui lo si persegue; non stabilisce cosa e come insegnare, che è mestiere dei pedagoghi, né come si finanzia, si organizza e si governa un sistema del genere, che è mestiere degli addetti ai lavori.
@@ -214,15 +228,16 @@ Restano quindi deliberatamente fuori: il costo e il modello di finanziamento, il
 
 L'autore preferisce elencarle piuttosto che lasciarle scoprire al lettore.
 
-1. **Quali dati non si raccolgono mai**, per principio, indipendentemente dal consenso e dall'utilità. Il modello ha una risposta tecnica sulla protezione dei dati dei minori, ma non ha ancora tracciato questo confine — che diventa più stringente se le registrazioni sono anche consultabili.
-2. **Che cosa vedono esattamente i genitori** del profilo del figlio, e se accedono anche ai dati grezzi da cui il profilo è ricavato.
+1. **Quali dati non si raccolgono mai**, per principio, indipendentemente dal consenso e dall'utilità. Il modello ha una risposta tecnica sulla protezione dei dati dei minori e, da questa revisione, una regola di conservazione — il materiale grezzo si cancella dopo l'osservazione (3.5) — ma il confine su che cosa non si registra affatto resta da tracciare.
+2. **Che cosa vedono esattamente i genitori** del profilo del figlio. La regola di conservazione restringe la finestra in cui i dati grezzi esistono ancora (3.5); non stabilisce che cosa si mostra, a chi, e per quanto tempo.
 3. **Chi ha diritto di consultare la ragnatela**, oltre alla persona e a chi lei sceglie — e che cosa deve accettare di perdere, in cambio, chi ottiene il diritto di vedere chi sei.
-4. **Con che cosa si verifica una soft skill.** Un livello di matematica si verifica; leadership o empatia con quale prova, e con quale meccanismo di decadenza.
+4. **Con che cosa si verifica una soft skill.** Un livello di matematica si verifica; leadership o empatia con quale prova, e con quale meccanismo di decadenza. La sezione 3.12 aggiunge un criterio di lettura — distinguere ciò che la persona fa da sola, con assistenza o per delega allo strumento — ma non la prova.
 5. **Dove questo modello si separa da Illich.** La descolarizzazione dice che la scuola non è riformabile e va sostituita da reti informali; questo modello costruisce invece un'istituzione, con registri, soglie e validazione. La differenza va dichiarata.
 6. **Come garantire gli spazi della relazione umana.** Il principio è esplicito nella sezione 3.13. Restano aperti l’organizzazione dei tempi e delle attività, la preparazione degli educatori e la verifica degli esiti.
-7. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico.
+7. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico. Il moltiplicatore (3.14) pesa il punto di partenza di una persona; non porta dispositivi, coach e opportunità dove non ci sono.
 8. **Come insegnare e verificare l'alfabetizzazione critica sull'IA.** Il principio entra nelle basi comuni (3.2); restano da definire progressione per età, materiali e criteri di verifica dell'apprendimento autonomo e assistito (3.12).
 9. **La formazione reale degli educatori della prima infanzia** (vedi 3.6).
+10. **Come si tara il moltiplicatore del contesto** (3.14): con quale scala, chi lo stabilisce e chi lo controlla, e a quali condizioni si considera esaurito. Il principio è dichiarato; la sua taratura decide se corregge una disuguaglianza o ne crea un'altra.
 
 ## 6. Cosa si appoggia a lavori e infrastrutture preesistenti
 
@@ -244,11 +259,13 @@ I lavori di Anderson e Winthrop sul coinvolgimento degli studenti e il rapporto 
 
 ## 7. Stato del progetto
 
-Questa è la versione 2.1 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
+Questa è la versione 2.2 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
 
 Rispetto alla 1.0, la versione 2.0 ha aggiunto il cambio di obiettivo (sezione 2), le basi comuni, la scoperta attiva, la distinzione tra i due documenti, l'ingresso a qualunque età e il perimetro dichiarato; e ha reso esplicito chi firma che cosa, chiarendo che l'umano che convalida è l'educatore e che il genitore prende visione — un punto che la 1.0 lasciava indeterminato.
 
-La revisione 2.1 esplicita il cambiamento di mentalità di famiglie ed educatori, il significato non prescrittivo dei livelli, l'apprendimento con un'IA adattiva e gli spazi di formazione sociale senza mediazione dell'IA. Aggiorna i rimandi nelle basi comuni, nel mentoring e nelle questioni aperte, e raccoglie le fonti pedagogiche con i rispettivi limiti.
+La revisione 2.1 ha esplicitato il cambiamento di mentalità di famiglie ed educatori, il significato non prescrittivo dei livelli, l'apprendimento con un'IA adattiva e gli spazi di formazione sociale senza mediazione dell'IA; ha aggiornato i rimandi nelle basi comuni, nel mentoring e nelle questioni aperte, e ha raccolto le fonti pedagogiche con i rispettivi limiti.
+
+La revisione 2.2, di pari data, scrive nel documento tre elementi decisi in precedenza e mai messi per iscritto: la ramificazione degli assi dalle dimensioni dell'infanzia ai fattori cognitivi consolidati (3.1), la cancellazione del materiale grezzo dopo l'osservazione (3.5) e il peso del contesto di provenienza (3.14). Di conseguenza riduce le questioni aperte 1, 2, 4 e 7, e ne aggiunge una nuova sulla taratura del moltiplicatore.
 
 Il modello è aperto al confronto, alla critica e allo sviluppo collaborativo: l'obiettivo primario dell'autore è vedere queste idee discusse e, se possibile, adottate, non la loro esclusiva proprietà commerciale.
 
@@ -256,6 +273,6 @@ Il modello è aperto al confronto, alla critica e allo sviluppo collaborativo: l
 
 ## Come citare questo documento
 
-> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.1, 8 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
+> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.2, 8 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
 
 *Per domande, osservazioni critiche o proposte di collaborazione, contattare l'autore direttamente.*

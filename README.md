@@ -4,7 +4,7 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 
 **Autore:** Giuseppe-Diego Gianni
 **Prima pubblicazione pubblica di questo repository:** 30 luglio 2026
-**Position paper — versione corrente:** 2.1, revisione dell'8 settembre 2026
+**Position paper — versione corrente:** 2.2, revisione dell'8 settembre 2026
 **Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./LICENSE.md)
 
 > **Nota sul nome.** Questo progetto è stato pubblicato dal 30 luglio al 2 settembre 2026 con il nome **"La Scuola dei Talenti"**. Il 2 settembre 2026 è stato rinominato **Trama** per evitare l'omonimia con un libro di altro autore. Contenuto, sviluppo e paternità sono i medesimi: la cronologia dei commit di questo repository conserva la denominazione originale e ne costituisce la prova.
@@ -30,7 +30,7 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 2. **Le basi comuni** — leggere, scrivere, riassumere, calcolo di base: insegnamento generale per tutti, fuori dalla ragnatela.
 3. **La scoperta attiva** — i "topolini": stimoli costruiti apposta, fin da piccoli, per far emergere il talento invece di aspettare che lo scopra il caso.
 4. **Il mercato delle opportunità** — progetto reale → soglia di competenza → coach globale.
-5. **Il modello ibrido uomo-macchina** — doppia firma automatica + umana; il genitore firma per presa visione, non per validazione; nessun ricorso formale, il rimedio è il confronto immediato.
+5. **Il modello ibrido uomo-macchina** — doppia firma automatica + umana; il materiale grezzo si cancella dopo l'osservazione, resta l'osservazione validata; il genitore firma per presa visione, non per validazione; nessun ricorso formale, il rimedio è il confronto immediato.
 6. **Chi è l'educatore della prima infanzia** — resta umano per scelta; ipotesi di lavoro sul profilo, verifica aperta sulla formazione reale.
 7. **Decadenza e rinnovo delle competenze** — le competenze non sono permanenti; il registro storico resta immutabile, la vista attuale si aggiorna.
 8. **Blockchain educativa permissioned** — hash on-chain, dati fuori catena, tutela GDPR dei minori.
@@ -45,6 +45,7 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 16. **Accompagnare la scoperta** — genitori ed educatori nutrono le possibilità; i livelli raggiunti non prescrivono traguardi successivi.
 17. **Imparare con un'IA adattiva** — spiegazioni, difficoltà e materiali costruiti anche dagli apporti dello studente; comprensione e uso critico degli aiuti.
 18. **Gli spazi della relazione umana** — formazione dell'intelligenza emotiva attraverso attività senza assistenza o mediazione dell'IA.
+19. **Il contesto di provenienza** — l'ambiente non si scrive nel profilo: pesa l'osservazione come moltiplicatore, tanto più alto quanto più il punto di partenza è sfavorevole, e si esaurisce quando la persona costruisce esperienze proprie.
 
 I riferimenti pedagogici e le verifiche delle fonti sono raccolti in [Fonti su apprendimento e IA](./note/Fonti%20su%20apprendimento%20e%20IA.md).
 

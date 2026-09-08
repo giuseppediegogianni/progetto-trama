@@ -28,6 +28,8 @@ Con la crescita, la rappresentazione si articola in:
 - talento fisico-motorio;
 - talento sociale, comprendendo la conoscenza di sé e la comprensione degli altri.
 
+Il passaggio avviene per ramificazione: le dimensioni dell'infanzia si articolano in aree più fini, che a loro volta possono essere messe in relazione con i fattori cognitivi consolidati della letteratura psicometrica — comprensione verbale, abilità visuo-spaziali, ragionamento fluido, memoria di lavoro, velocità di elaborazione. È la stessa logica frattale della sezione sotto, applicata al tempo invece che al dettaglio, e non porta mai a un punteggio unico di intelligenza: la ragnatela resta un ritratto a più assi, non un QI travestito. La corrispondenza con quei fattori è una proposta da progettare e verificare con chi lavora sulle scale esistenti.
+
 Le dimensioni iniziali continuano a evolvere: non vengono cancellate o sostituite da categorie professionali. Le aree accompagnano la scoperta degli interessi e possono essere collegate alle attività, ai progetti e ai ruoli che la persona sceglie di esplorare. Non costituiscono diagnosi, identità definitive o una tassonomia scientifica già validata.
 
 Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva. Le attività dedicate a questa dimensione si svolgono senza assistenza o mediazione dell'IA; gioco, confronto e lavoro comune offrono occasioni per esercitare ascolto, pazienza e gestione delle relazioni.
@@ -73,5 +75,9 @@ Il livello successivo non rappresenta un debito educativo. Un ragazzo con proble
 Famiglia ed educatori accompagnano la scoperta con proposte, sostegno e pazienza, senza trasformare un'inclinazione in una destinazione professionale assegnata. Il principio è sviluppato nella sezione 2.1 del [Position Paper](../Trama-Position-Paper.md).
 
 Le osservazioni devono distinguere ciò che la persona dimostra autonomamente, con assistenza o delegando all'IA. Le condizioni della prestazione rendono interpretabile il livello, secondo la sezione 3.12.
+
+## Il peso del contesto
+
+Un livello non si legge senza sapere da dove parte chi lo ha raggiunto. L'ambiente di provenienza non entra nella ragnatela come dato scritto, ma come **moltiplicatore** che pesa il comportamento osservato: più l'ambiente è sfavorevole, più il moltiplicatore è alto, perché una capacità sopra la media senza stimoli intorno vale più della stessa capacità in un ambiente che la coltiva. Non è fisso e si esaurisce da solo quando la persona costruisce esperienze proprie. Dettaglio nella sezione 3.14 del [Position Paper](../Trama-Position-Paper.md); è anche la risposta al terzo dei problemi seri elencati in [[Il modello ibrido uomo-macchina]].
 
 Collegamenti: [[Trama - la visione]] · [[Il modello ibrido uomo-macchina]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Blockchain educativa]] · [[La nave per un porto sommerso - IA e automazione]] · [[Lo stack a quattro livelli - come si collega tutto]] · [[Decadenza e rinnovo delle competenze]]

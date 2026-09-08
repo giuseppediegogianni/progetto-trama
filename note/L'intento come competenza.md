@@ -34,8 +34,9 @@ Questa nota aggiunge una seconda giustificazione, non difensiva: **le basi comun
 
 ## Questione aperta
 
-Se sia un asse autonomo o la forma che assume, in questo contesto, l'asse "comunicazione". L'ipotesi di lavoro è che sia autonomo: la comunicazione è rivolta a persone, che chiedono chiarimenti e si accorgono quando la richiesta è mal posta; questa è rivolta a un esecutore che non fa né l'una né l'altra cosa.
+Se sia un asse autonomo o la forma che assume, in questo contesto, l'area verbale-linguistica descritta in [[La ragnatela delle competenze]]. L'ipotesi di lavoro è che sia autonomo: la comunicazione è rivolta a persone, che chiedono chiarimenti e si accorgono quando la richiesta è mal posta; questa è rivolta a un esecutore che non fa né l'una né l'altra cosa.
 
-Resta inoltre da chiarire il rapporto con il rischio opposto: se si delega l'esecuzione, il giudizio sul risultato — terza componente — si allena solo avendo eseguito qualcosa a mano prima. Le due esigenze vanno tenute insieme senza risolverle a favore dell'una.
+### Chiusa l'8 settembre 2026: il rischio opposto
+Restava da chiarire il rapporto con il rischio opposto — se si delega l'esecuzione, il giudizio sul risultato, terza componente, si allena solo avendo eseguito qualcosa a mano prima. La sezione 3.12 del [Position Paper](../Trama-Position-Paper.md) tiene insieme le due esigenze senza risolverle a favore dell'una: imparare con l'IA comprende capire quando chiedere un suggerimento, quando esercitarsi da soli e quali attività delegare, e le osservazioni che alimentano il profilo devono rendere leggibili le condizioni della prestazione — da solo, con assistenza, per delega. Un prodotto generato dall'IA non attesta da solo la capacità autonoma corrispondente: è il criterio che impedisce alla delega di gonfiare la ragnatela.
 
 Collegamenti: [[La ragnatela delle competenze]] · [[Decadenza e rinnovo delle competenze]] · [[La nave per un porto sommerso - IA e automazione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Ikigai]] · [[Trama - la visione]]
