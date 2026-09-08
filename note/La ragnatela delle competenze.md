@@ -45,4 +45,12 @@ Nella classifica delle competenze core del 2025, gli assi "non accademici" batto
 ### ⚠️ Correzione importante: le competenze decadono, la ragnatela deve saperlo
 Il white paper WEF *"Unlocking the Human Advantage"* mostra che le competenze umane-centriche sono fragili, non permanenti: durante il COVID sono calate nettamente e nel 2025 non sono ancora tornate ai livelli pre-2019. Un blocco scritto una volta nella ragnatela e mai più aggiornato rischia di certificare qualcosa che non è più vero. Soluzione completa in [[Decadenza e rinnovo delle competenze]]: due tipi di decadenza (dati continui vs. verifica puntuale), un'architettura a due livelli (registro immutabile + vista attuale calcolata), ispirata al modello delle certificazioni industriali (Microsoft, Cisco, CompTIA, GIAC).
 
+## Livelli raggiunti e cambiamento di mentalità (8 settembre 2026)
+
+Il livello successivo non rappresenta un debito educativo. Un ragazzo con problem solving 3 e creatività 5, interessato all'arte, non ha per questo un'area da correggere. Un obiettivo di sviluppo nasce quando una capacità assume significato per qualcosa che desidera comprendere o realizzare. Restano le basi comuni per tutti.
+
+Famiglia ed educatori accompagnano la scoperta con proposte, sostegno e pazienza, senza trasformare un'inclinazione in una destinazione professionale assegnata. Il principio è sviluppato nella sezione 2.1 del [Position Paper](../Trama-Position-Paper.md).
+
+Le osservazioni devono distinguere ciò che la persona dimostra autonomamente, con assistenza o delegando all'IA. Le condizioni della prestazione rendono interpretabile il livello, secondo la sezione 3.12.
+
 Collegamenti: [[Trama - la visione]] · [[Il modello ibrido uomo-macchina]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Blockchain educativa]] · [[La nave per un porto sommerso - IA e automazione]] · [[Lo stack a quattro livelli - come si collega tutto]] · [[Decadenza e rinnovo delle competenze]]

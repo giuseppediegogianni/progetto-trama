@@ -43,4 +43,12 @@ Nessun meccanismo di ricorso formale. Non serve: un bambino descritto come "apat
 ## L'IA come attrezzo, non solo come minaccia esterna
 Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica alla trasformazione del mercato del lavoro descritta in [[La nave per un porto sommerso - IA e automazione]]: la stessa tecnologia che rende incerto il futuro professionale dei ragazzi è quella che rende costruibile, oggi, un sistema capace di seguirli uno per uno su scala nazionale.
 
+## Apprendimento adattivo e formazione sociale (8 settembre 2026)
+
+L'IA educativa proposta adatta spiegazioni orali, testi, immagini, schemi e simulazioni alle conoscenze, alle difficoltà e all'evoluzione dello studente. Suggerisce letture, gradua gli esercizi e crea materiali anche dagli appunti e dagli altri contributi della persona. Modalità e difficoltà vengono riviste sulla base della comprensione, senza etichette cognitive permanenti.
+
+La formazione di empatia, pazienza, rispetto, cooperazione e leadership avviene invece nelle relazioni umane dirette: le attività dedicate si svolgono senza assistenza o mediazione dell'IA. Questo principio riguarda tutto il percorso, anche quando il mentoring per l'apprendimento impiega un'IA personale.
+
+Le sezioni 3.12 e 3.13 del [Position Paper](../Trama-Position-Paper.md) sviluppano questi requisiti e questa scelta pedagogica. La nota [[Fonti su apprendimento e IA]] distingue i riferimenti disponibili dalla validazione ancora necessaria.
+
 Collegamenti: [[Blockchain educativa]] · [[Il nodo GDPR e i minori]] · [[Trama - la visione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[La nave per un porto sommerso - IA e automazione]] · [[Decadenza e rinnovo delle competenze]]
