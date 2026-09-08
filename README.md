@@ -4,7 +4,7 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 
 **Autore:** Giuseppe-Diego Gianni
 **Prima pubblicazione pubblica di questo repository:** 30 luglio 2026
-**Position paper — versione corrente:** 2.0, revisione del 2 settembre 2026
+**Position paper — versione corrente:** 2.1, revisione dell'8 settembre 2026
 **Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./LICENSE.md)
 
 > **Nota sul nome.** Questo progetto è stato pubblicato dal 30 luglio al 2 settembre 2026 con il nome **"La Scuola dei Talenti"**. Il 2 settembre 2026 è stato rinominato **Trama** per evitare l'omonimia con un libro di altro autore. Contenuto, sviluppo e paternità sono i medesimi: la cronologia dei commit di questo repository conserva la denominazione originale e ne costituisce la prova.
@@ -41,6 +41,12 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 13. **Il rifiuto dello strumento** — questione aperta: un sistema che riconosce l'unicità deve poter descrivere anche chi rifiuta lo strumento con cui lo si riconosce.
 14. **Il precedente Robinson** — la diagnosi è del 2010 e non è di questo progetto; ciò che è di questo progetto è il meccanismo che la diagnosi non conteneva. Include ciò che il modello esplicitamente non assume.
 15. **La prova viene dal gruppo, il profilo resta della persona** — risposta all'obiezione dell'atomizzazione: nessun blocco della ragnatela nasce da una prestazione isolata.
+
+16. **Accompagnare la scoperta** — genitori ed educatori nutrono le possibilità; i livelli raggiunti non prescrivono traguardi successivi.
+17. **Imparare con un'IA adattiva** — spiegazioni, difficoltà e materiali costruiti anche dagli apporti dello studente; comprensione e uso critico degli aiuti.
+18. **Gli spazi della relazione umana** — empatia, pazienza, rispetto, cooperazione e leadership attraverso attività senza assistenza o mediazione dell'IA.
+
+I riferimenti pedagogici e le verifiche delle fonti sono raccolti in [Fonti su apprendimento e IA](./note/Fonti%20su%20apprendimento%20e%20IA.md).
 
 Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./Trama-Position-Paper.md).
 
