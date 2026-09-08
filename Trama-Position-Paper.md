@@ -2,7 +2,7 @@
 
 ### Un modello educativo per l'era dell'intelligenza artificiale
 
-**Position paper — versione 2.2**
+**Position paper — versione 2.3**
 
 - **Autore:** Giuseppe-Diego Gianni
 - **Prima pubblicazione (versione 1.0):** 30 luglio 2026 — resta il primo marcatore pubblico datato di questa sintesi
@@ -104,7 +104,11 @@ Imparare a imparare e usare criticamente l'IA fanno parte delle basi comuni: pia
 
 Se l'ingiustizia della scuola di oggi è che serve un incontro fortunato — un insegnante, un incidente, un'occasione — perché un talento si riveli, allora il sistema **costruisce quelle occasioni apposta**: tanti stimoli diversi, somministrati fin da piccoli, per vedere cosa scatenano.
 
-Portare un bambino in una sala da concerto con maestri che suonano e osservare la sua reazione è uno stimolo. Metterlo in una stanza dove può smontare tutto quello che vuole è un altro. Quanti stimoli: tanti quanti se ne riescono a creare, attingendo a educazione, profilazione, test cognitivi e test psicoattitudinali già in uso oggi. Il metodo Montessori è il riferimento dichiarato da cui prendere spunto per la costruzione degli stimoli.
+Portare un bambino in una sala da concerto con maestri che suonano è uno stimolo. Metterlo in una stanza dove può smontare tutto quello che vuole è un altro. Ma **quello che si registra non è una vocazione**: un bambino che si illumina davanti a uno strumento non diventerà per questo un musicista, e il modello non pretende di dedurlo. Si osserva il modo in cui si ingaggia — quanto regge l'attenzione, se esplora o aspetta, come reagisce alla difficoltà, se chiede aiuto, se cerca gli altri o li evita. Una stessa situazione dice qualcosa su più dimensioni insieme, e nessuna situazione presa da sola dice niente: è la ripetizione su occasioni diverse a fare l'informazione.
+
+Gli strumenti per farlo non sono da inventare. Ognuna delle dimensioni della prima infanzia ne ha già di collaudati e normati: il *Profil sensoriel 2* di Dunn e i questionari sul temperamento, per la reattività sensoriale e l'adattamento all'ambiente; l'ASQ:SE-2, l'SDQ di Goodman e le scale di Lovanio di Ferre Laevers — che non misurano una prestazione ma il benessere e l'implicazione del bambino dentro un'attività — per lo sviluppo relazionale e socio-emozionale; gli inventari MacArthur-Bates per comprensione e comunicazione; il Brunet-Lézine rivisto e la Movement Assessment Battery for Children per la psicomotricità. Il metodo Montessori resta il riferimento dichiarato per la costruzione degli stimoli.
+
+La differenza non sta negli strumenti ma nel regime d'uso: oggi servono a individuare un ritardo, una volta sola, sui bambini che preoccupano; qui servono a descrivere tutti, nel tempo, alimentando un profilo che resta aperto. Quanti stimoli: tanti quanti se ne riescono a creare.
 
 Il sistema non aspetta che il ragazzo si faccia avanti: **va a cercarlo**, con adulti pagati per farlo. È la differenza strutturale rispetto a tutte le proposte che si limitano a garantire l'accesso a un'offerta.
 
@@ -224,20 +228,23 @@ Questo è un documento di scopo, non un piano operativo. Propone di cambiare l'o
 
 Restano quindi deliberatamente fuori: il costo e il modello di finanziamento, il numero di ragazzi per educatore, la struttura della giornata scolastica, la ripartizione istituzionale delle responsabilità, il disegno normativo. Sono questioni reali, e chi lavora nella scuola le porrà per prime; questo documento sostiene che vengano dopo, e che non siano una ragione sufficiente per non discutere l'obiettivo.
 
+C'è infine una premessa che il documento fa, ed è meglio dichiararla che lasciarla implicita: **il modello assume che una predisposizione preesista all'osservazione, e che il compito del sistema sia rivelarla**. È una posizione discutibile, e discussa: buona parte della pedagogia contemporanea considera le capacità come costruite nell'interazione più che scoperte. Se la seconda lettura è quella giusta, ciò che la ragnatela registra dipende in larga misura dalla qualità delle occasioni che il sistema ha offerto — il che non la rende inutile, ma cambia quello che dice di chi la porta. Questo documento adotta la prima lettura e la dichiara, invece di farla passare per un'ovvietà.
+
 ## 5. Questioni dichiaratamente aperte
 
 L'autore preferisce elencarle piuttosto che lasciarle scoprire al lettore.
 
 1. **Quali dati non si raccolgono mai**, per principio, indipendentemente dal consenso e dall'utilità. Il modello ha una risposta tecnica sulla protezione dei dati dei minori e, da questa revisione, una regola di conservazione — il materiale grezzo si cancella dopo l'osservazione (3.5) — ma il confine su che cosa non si registra affatto resta da tracciare.
-2. **Che cosa vedono esattamente i genitori** del profilo del figlio. La regola di conservazione restringe la finestra in cui i dati grezzi esistono ancora (3.5); non stabilisce che cosa si mostra, a chi, e per quanto tempo.
-3. **Chi ha diritto di consultare la ragnatela**, oltre alla persona e a chi lei sceglie — e che cosa deve accettare di perdere, in cambio, chi ottiene il diritto di vedere chi sei.
-4. **Con che cosa si verifica una soft skill.** Un livello di matematica si verifica; leadership o empatia con quale prova, e con quale meccanismo di decadenza. La sezione 3.12 aggiunge un criterio di lettura — distinguere ciò che la persona fa da sola, con assistenza o per delega allo strumento — ma non la prova.
-5. **Dove questo modello si separa da Illich.** La descolarizzazione dice che la scuola non è riformabile e va sostituita da reti informali; questo modello costruisce invece un'istituzione, con registri, soglie e validazione. La differenza va dichiarata.
-6. **Come garantire gli spazi della relazione umana.** Il principio è esplicito nella sezione 3.13. Restano aperti l’organizzazione dei tempi e delle attività, la preparazione degli educatori e la verifica degli esiti.
-7. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico. Il moltiplicatore (3.14) pesa il punto di partenza di una persona; non porta dispositivi, coach e opportunità dove non ci sono.
-8. **Come insegnare e verificare l'alfabetizzazione critica sull'IA.** Il principio entra nelle basi comuni (3.2); restano da definire progressione per età, materiali e criteri di verifica dell'apprendimento autonomo e assistito (3.12).
-9. **La formazione reale degli educatori della prima infanzia** (vedi 3.6).
-10. **Come si tara il moltiplicatore del contesto** (3.14): con quale scala, chi lo stabilisce e chi lo controlla, e a quali condizioni si considera esaurito. Il principio è dichiarato; la sua taratura decide se corregge una disuguaglianza o ne crea un'altra.
+2. **Chi vede che cosa.** Che cosa vedono esattamente i genitori del profilo del figlio; chi altro ha diritto di consultare la ragnatela, oltre alla persona e a chi lei sceglie; e che cosa deve accettare di perdere, in cambio, chi ottiene il diritto di vedere chi sei. La regola di conservazione restringe la finestra in cui i dati grezzi esistono ancora (3.5); non stabilisce chi guarda che cosa, né per quanto tempo.
+3. **Con che cosa si verifica una soft skill.** Un livello di matematica si verifica; leadership o empatia con quale prova, e con quale meccanismo di decadenza. La sezione 3.12 aggiunge un criterio di lettura — distinguere ciò che la persona fa da sola, con assistenza o per delega allo strumento — ma non la prova.
+4. **Dove questo modello si separa da Illich.** La descolarizzazione dice che la scuola non è riformabile e va sostituita da reti informali; questo modello costruisce invece un'istituzione, con registri, soglie e validazione. La differenza va dichiarata.
+5. **Come garantire gli spazi della relazione umana.** Il principio è esplicito nella sezione 3.13. Restano aperti l’organizzazione dei tempi e delle attività, la preparazione degli educatori e la verifica degli esiti.
+6. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico. Il moltiplicatore (3.14) pesa il punto di partenza di una persona; non porta dispositivi, coach e opportunità dove non ci sono.
+7. **Come insegnare e verificare l'alfabetizzazione critica sull'IA.** Il principio entra nelle basi comuni (3.2); restano da definire progressione per età, materiali e criteri di verifica dell'apprendimento autonomo e assistito (3.12).
+8. **La formazione reale degli educatori della prima infanzia** (vedi 3.6).
+9. **Come si tara il moltiplicatore del contesto** (3.14): con quale scala, chi lo stabilisce e chi lo controlla, e a quali condizioni si considera esaurito. Il principio è dichiarato; la sua taratura decide se corregge una disuguaglianza o ne crea un'altra.
+10. **A quali condizioni la firma umana resta una firma.** La doppia firma (3.5) regge solo se chi valida ha il tempo e la competenza per farlo davvero: gli strumenti di osservazione citati in 3.3 costano ore per bambino. Se validare diventa inesigibile, la firma si riduce a un timbro, e con essa cade la responsabilità tracciabile su cui il modello poggia. Come lo si organizzi è mestiere altrui; che la condizione sia soddisfatta, no.
+11. **L'effetto dell'osservazione su chi osserva.** Un'osservazione destinata a diventare un blocco firmato e permanente cambia il modo in cui l'educatore guarda. La documentazione del modello Reggio Emilia funziona anche perché resta locale, discorsiva e rivedibile; qui il rischio è un'osservazione difensiva — più prudente e meno vera — prodotta proprio dal meccanismo pensato per creare fiducia.
 
 ## 6. Cosa si appoggia a lavori e infrastrutture preesistenti
 
@@ -259,7 +266,7 @@ I lavori di Anderson e Winthrop sul coinvolgimento degli studenti e il rapporto 
 
 ## 7. Stato del progetto
 
-Questa è la versione 2.2 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
+Questa è la versione 2.3 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
 
 Rispetto alla 1.0, la versione 2.0 ha aggiunto il cambio di obiettivo (sezione 2), le basi comuni, la scoperta attiva, la distinzione tra i due documenti, l'ingresso a qualunque età e il perimetro dichiarato; e ha reso esplicito chi firma che cosa, chiarendo che l'umano che convalida è l'educatore e che il genitore prende visione — un punto che la 1.0 lasciava indeterminato.
 
@@ -267,12 +274,14 @@ La revisione 2.1 ha esplicitato il cambiamento di mentalità di famiglie ed educ
 
 La revisione 2.2, di pari data, scrive nel documento tre elementi decisi in precedenza e mai messi per iscritto: la ramificazione degli assi dalle dimensioni dell'infanzia ai fattori cognitivi consolidati (3.1), la cancellazione del materiale grezzo dopo l'osservazione (3.5) e il peso del contesto di provenienza (3.14). Di conseguenza riduce le questioni aperte 1, 2, 4 e 7, e ne aggiunge una nuova sulla taratura del moltiplicatore.
 
+La revisione 2.3 precisa che cosa si registra osservando un bambino — l'ingaggio, non una vocazione — e nomina gli strumenti già esistenti su cui l'osservazione si appoggia (3.3); dichiara la premessa che il modello fa sul talento (sezione 4); accorpa due questioni aperte in una e ne aggiunge due, sulla firma che rischia di diventare un timbro e sull'effetto dell'osservazione su chi osserva.
+
 Il modello è aperto al confronto, alla critica e allo sviluppo collaborativo: l'obiettivo primario dell'autore è vedere queste idee discusse e, se possibile, adottate, non la loro esclusiva proprietà commerciale.
 
 ---
 
 ## Come citare questo documento
 
-> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.2, 8 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
+> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.3, 8 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
 
 *Per domande, osservazioni critiche o proposte di collaborazione, contattare l'autore direttamente.*

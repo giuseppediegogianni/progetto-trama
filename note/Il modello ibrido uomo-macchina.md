@@ -43,6 +43,12 @@ Questo sostituisce la formulazione precedente, in cui il genitore "collaborava c
 ### Cosa succede se una lettura è sbagliata (decisione 2 set 2026)
 Nessun meccanismo di ricorso formale. Non serve: una scarsa partecipazione osservata in una specifica attività a sei anni non descrive tutta la persona né il suo futuro, perché conta il percorso e come la persona evolve — lo stesso vale per le proprie pagelle delle elementari, che nessuno può "contestare" col senno di poi. Il rimedio è il confronto immediato: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato. Un profilo iniziale negativo non impedisce di crescere come persona perfettamente compatibile con la società da adulto.
 
+## Due obiezioni nuove alla doppia firma (8 settembre 2026)
+
+**La firma che diventa un timbro.** La doppia firma regge solo se chi valida ha il tempo e la competenza per farlo davvero. Gli strumenti di osservazione nominati nella sezione 3.3 del [Position Paper](../Trama-Position-Paper.md) — profilo sensoriale, ASQ:SE-2, SDQ, scale di Lovanio, Brunet-Lézine, Movement ABC — costano ore per bambino, e le scale di Lovanio sono pensate per la scansione di gruppo proprio perché una valutazione completa non scala. Se validare diventa inesigibile, la firma umana si riduce a un timbro e la responsabilità tracciabile sparisce con lei. Come si organizzi è mestiere degli addetti ai lavori; che la condizione sia soddisfatta è invece una condizione di verità del meccanismo, ed è ora la questione aperta 10 del position paper.
+
+**L'osservazione difensiva.** Un'osservazione destinata a diventare un blocco firmato e permanente cambia il modo in cui l'educatore guarda. La documentazione di [[Scuole alternative/Reggio Emilia]] funziona anche perché resta locale, discorsiva e rivedibile: serve a parlare del bambino, non a registrarlo. Qui il rischio è simmetrico alla medicina difensiva — un'osservazione più prudente e meno vera, prodotta proprio dal meccanismo pensato per creare fiducia. È la questione aperta 11.
+
 ## L'IA come attrezzo, non solo come minaccia esterna
 Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica alla trasformazione del mercato del lavoro descritta in [[La nave per un porto sommerso - IA e automazione]]: la stessa tecnologia che rende incerto il futuro professionale dei ragazzi è quella che rende costruibile, oggi, un sistema capace di seguirli uno per uno su scala nazionale.
 

@@ -4,7 +4,7 @@ Un modello educativo per l'era dell'intelligenza artificiale — scoperta attiva
 
 **Autore:** Giuseppe-Diego Gianni
 **Prima pubblicazione pubblica di questo repository:** 30 luglio 2026
-**Position paper — versione corrente:** 2.2, revisione dell'8 settembre 2026
+**Position paper — versione corrente:** 2.3, revisione dell'8 settembre 2026
 **Licenza:** Creative Commons Attribution 4.0 International (CC BY 4.0) — vedi [LICENSE.md](./LICENSE.md)
 
 > **Nota sul nome.** Questo progetto è stato pubblicato dal 30 luglio al 2 settembre 2026 con il nome **"La Scuola dei Talenti"**. Il 2 settembre 2026 è stato rinominato **Trama** per evitare l'omonimia con un libro di altro autore. Contenuto, sviluppo e paternità sono i medesimi: la cronologia dei commit di questo repository conserva la denominazione originale e ne costituisce la prova.
@@ -28,7 +28,7 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 
 1. **La ragnatela delle competenze** — profilo multi-asse frattale, non ottimizzabile, accettato così com'è; rappresenta dimensioni dello sviluppo e aree di talento in evoluzione, da collegare alle opportunità scelte dalla persona.
 2. **Le basi comuni** — leggere, scrivere, riassumere, calcolo di base: insegnamento generale per tutti, fuori dalla ragnatela.
-3. **La scoperta attiva** — i "topolini": stimoli costruiti apposta, fin da piccoli, per far emergere il talento invece di aspettare che lo scopra il caso.
+3. **La scoperta attiva** — i "topolini": stimoli costruiti apposta, fin da piccoli; si registra il modo in cui il bambino si ingaggia, non una vocazione, appoggiandosi a strumenti di osservazione già esistenti.
 4. **Il mercato delle opportunità** — progetto reale → soglia di competenza → coach globale.
 5. **Il modello ibrido uomo-macchina** — doppia firma automatica + umana; il materiale grezzo si cancella dopo l'osservazione, resta l'osservazione validata; il genitore firma per presa visione, non per validazione; nessun ricorso formale, il rimedio è il confronto immediato.
 6. **Chi è l'educatore della prima infanzia** — resta umano per scelta; ipotesi di lavoro sul profilo, verifica aperta sulla formazione reale.
