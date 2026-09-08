@@ -55,7 +55,7 @@ Le scelte di Trama — livelli non prescrittivi, accompagnamento della scoperta,
 
 **Corrispondenza molto forte:** podcast 17:42–22:23. È una sintesi di ricerca e raccomandazioni che integra oltre 400 studi, consultazioni con più di 500 persone in 50 paesi e un panel Delphi. Propone i tre pilastri Prosper, Prepare e Protect e attività AI-aware, AI-assisted e AI-resistant.
 
-**Uso in Trama:** riferimento per un'IA che sostiene l'apprendimento, l'alfabetizzazione critica e gli spazi umani. La scelta di svolgere le attività dedicate alla formazione sociale senza assistenza o mediazione dell'IA è una scelta specifica di Trama: non viene presentata come una regola universale dimostrata dal rapporto.
+**Uso in Trama:** riferimento per un'IA che sostiene l'apprendimento, l'alfabetizzazione critica e gli spazi umani. La scelta di svolgere le attività dedicate alla formazione dell'intelligenza emotiva senza assistenza o mediazione dell'IA è una scelta specifica di Trama: non viene presentata come una regola universale dimostrata dal rapporto.
 
 ## 5. Conversazioni con compagni virtuali
 
@@ -77,6 +77,10 @@ Le scelte di Trama — livelli non prescrittivi, accompagnamento della scoperta,
 **Approfondimento aggiunto:** pertinente al podcast 13:27–14:38, ma non identificabile come sua citazione certa. L'esperimento con quasi mille studenti distingue i miglioramenti negli esercizi assistiti dai risultati successivi senza IA. Il gruppo con accesso non guidato peggiora rispetto al controllo nella prova autonoma; un tutor con indicazioni pedagogiche attenua il problema.
 
 **Limite:** risultati di apprendimento nel contesto studiato, non prova di danni neurologici o permanenti. È un riferimento per verificare ciò che la persona ha imparato oltre al prodotto ottenuto.
+
+## Stato delle aree proposte da Trama
+
+Le dimensioni dello sviluppo infantile e le cinque aree di talento descritte nella sezione 3.1 del Position Paper sono una proposta organizzativa del modello, da precisare e verificare. Le fonti qui raccolte non validano questa tassonomia né una corrispondenza automatica fra osservazioni infantili, talenti e professioni. Il richiamo alla conoscenza di sé e alla comprensione degli altri non costituisce, da solo, adesione a una teoria psicometrica specifica.
 
 ## Affermazioni non utilizzate come evidenze
 

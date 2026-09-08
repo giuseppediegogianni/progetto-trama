@@ -26,7 +26,7 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 
 ## Sintesi del modello (indice rapido)
 
-1. **La ragnatela delle competenze** — profilo multi-asse frattale, non ottimizzabile, accettato così com'è; registra attitudini, non mestieri.
+1. **La ragnatela delle competenze** — profilo multi-asse frattale, non ottimizzabile, accettato così com'è; rappresenta dimensioni dello sviluppo e aree di talento in evoluzione, da collegare alle opportunità scelte dalla persona.
 2. **Le basi comuni** — leggere, scrivere, riassumere, calcolo di base: insegnamento generale per tutti, fuori dalla ragnatela.
 3. **La scoperta attiva** — i "topolini": stimoli costruiti apposta, fin da piccoli, per far emergere il talento invece di aspettare che lo scopra il caso.
 4. **Il mercato delle opportunità** — progetto reale → soglia di competenza → coach globale.
@@ -44,7 +44,7 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 
 16. **Accompagnare la scoperta** — genitori ed educatori nutrono le possibilità; i livelli raggiunti non prescrivono traguardi successivi.
 17. **Imparare con un'IA adattiva** — spiegazioni, difficoltà e materiali costruiti anche dagli apporti dello studente; comprensione e uso critico degli aiuti.
-18. **Gli spazi della relazione umana** — empatia, pazienza, rispetto, cooperazione e leadership attraverso attività senza assistenza o mediazione dell'IA.
+18. **Gli spazi della relazione umana** — formazione dell'intelligenza emotiva attraverso attività senza assistenza o mediazione dell'IA.
 
 I riferimenti pedagogici e le verifiche delle fonti sono raccolti in [Fonti su apprendimento e IA](./note/Fonti%20su%20apprendimento%20e%20IA.md).
 

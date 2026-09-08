@@ -21,7 +21,7 @@ Non si può progettare un sistema educativo su una previsione. Se ne può proget
 
 Questo non è un ripiego, è il criterio costruttivo del modello, ed è già implementato in tutti i suoi meccanismi principali:
 
-- **Gli assi della ragnatela non sono fissi.** Corrispondono ai requisiti dei ruoli reali a cui una persona può candidarsi, e si aggiornano quando quei ruoli cambiano — non quando cambia un'ipotesi sul futuro (vedi [[La ragnatela delle competenze]]).
+- **Gli assi della ragnatela non sono fissi.** La rappresentazione evolve dalle dimensioni dello sviluppo alle aree di talento e accompagna gli interessi della persona. I requisiti dei ruoli vengono collegati al profilo quando si esplora un'opportunità; il loro cambiamento non ridefinisce l'identità della persona (vedi [[La ragnatela delle competenze]]).
 - **La domanda reale è ciò che valorizza e svaluta.** Non è il sistema a decretare che una competenza non serve più: è il mercato delle opportunità che smette di chiederla (vedi [[Il mercato delle opportunità - progetto, soglia, coach]]).
 - **Conta la traiettoria, non la fotografia.** Ciò che il profilo documenta di più stabile è la capacità di adattamento, non il livello raggiunto in un dato momento.
 - **Le competenze decadono e si rinnovano**, con un registro storico immutabile e una vista attuale ricalcolata (vedi [[Decadenza e rinnovo delle competenze]]).

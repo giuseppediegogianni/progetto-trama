@@ -14,16 +14,16 @@ Nessuno dei quattro livelli va inventato da zero: **tre esistono già** (costrui
 ## Livello 1 — Il vocabolario (cosa esiste)
 Due tassonomie complementari, non una sola:
 
-- **Education 4.0 Taxonomy** (World Economic Forum + Fondazione LEGO, gennaio 2023) — pensata specificamente per bambini e ragazzi, non per il mercato del lavoro adulto. Si fonda su tre attitudini: abilità e competenze, atteggiamenti e valori, conoscenza e informazione. Si scompone in livelli sempre più granulari (es. abilità cognitive → creatività, pensiero critico, competenze digitali). È il candidato naturale per gli **assi della ragnatela madre**.
+- **Education 4.0 Taxonomy** (World Economic Forum + Fondazione LEGO, gennaio 2023) — pensata specificamente per bambini e ragazzi, non per il mercato del lavoro adulto. Si fonda su tre attitudini: abilità e competenze, atteggiamenti e valori, conoscenza e informazione. Si scompone in livelli sempre più granulari (es. abilità cognitive → creatività, pensiero critico, competenze digitali). È un riferimento da confrontare con le **dimensioni dello sviluppo e le aree di talento proposte da Trama**, il cui disegno resta da precisare e verificare.
 - **Global Skills Taxonomy** (World Economic Forum, dal 2021, aggiornata nel 2025) — tassonomia interattiva a più livelli di granularità (fino al livello 5), pensata per il mercato del lavoro: datori di lavoro, governi, enti di formazione e singoli individui possono proporre la propria sotto-tassonomia a un livello profondo, restando compatibili con lo standard globale attraverso il livello superiore.
 - **ESCO** (Unione Europea) — quasi 14.000 concetti di competenze e conoscenze in gerarchia, con relazioni "essenziali/opzionali" verso le occupazioni, pensata per far incontrare candidati e opportunità di lavoro.
 
-Global Skills Taxonomy ed ESCO sono i candidati naturali per le **sotto-ragnatele**, quando un progetto reale richiede una competenza tecnica specifica.
+Global Skills Taxonomy ed ESCO possono fornire il vocabolario per descrivere competenze tecniche e collegare il profilo a opportunità scelte. Le dimensioni infantili e le aree di talento sono descritte in [[La ragnatela delle competenze]]: non derivano automaticamente dai requisiti dei mestieri.
 
 *Vedi anche: [[La ragnatela delle competenze]], [[00 - Confronto scuole alternative]] (sezione VET duale).*
 
 ## Livello 2 — Il ritratto (chi sei)
-**La ragnatela.** Qui non esiste nulla di equivalente nel mondo WEF o UE: prende in prestito il vocabolario del Livello 1 ma lo trasforma in qualcosa che nessuna tassonomia fa da sola — un profilo **personale, visivo, che evolve nel tempo, non ottimizzabile**, di un bambino specifico. Le tassonomie sono dizionari neutri; la ragnatela è un ritratto che si accetta così com'è, vuoti compresi.
+**La ragnatela.** Qui non esiste nulla di equivalente nel mondo WEF o UE: articola dimensioni dello sviluppo e aree di talento, collegandole dove pertinente al vocabolario del Livello 1 ma lo trasforma in qualcosa che nessuna tassonomia fa da sola — un profilo **personale, visivo, che evolve nel tempo, non ottimizzabile**, di un bambino specifico. Le tassonomie sono dizionari neutri; la ragnatela è un ritratto che si accetta così com'è, vuoti compresi.
 
 *Vedi: [[La ragnatela delle competenze]].*
 

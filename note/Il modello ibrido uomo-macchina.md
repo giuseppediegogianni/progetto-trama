@@ -38,7 +38,7 @@ Il genitore non è un validatore. Firma la valutazione del figlio per **presa vi
 Questo sostituisce la formulazione precedente, in cui il genitore "collaborava con l'IA per validare i risultati dei test": la firma di validazione resta sull'educatore (vedi sopra); il genitore prende visione.
 
 ### Cosa succede se una lettura è sbagliata (decisione 2 set 2026)
-Nessun meccanismo di ricorso formale. Non serve: un bambino descritto come "apatico" a sei anni non lo sarà a quaranta, perché conta il percorso e come la persona evolve, non la macchia sul foglio del giorno — lo stesso vale per le proprie pagelle delle elementari, che nessuno può "contestare" col senno di poi. Il rimedio è il confronto immediato: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato. Un profilo iniziale negativo non impedisce di crescere come persona perfettamente compatibile con la società da adulto.
+Nessun meccanismo di ricorso formale. Non serve: una scarsa partecipazione osservata in una specifica attività a sei anni non descrive tutta la persona né il suo futuro, perché conta il percorso e come la persona evolve — lo stesso vale per le proprie pagelle delle elementari, che nessuno può "contestare" col senno di poi. Il rimedio è il confronto immediato: i genitori chiedono all'educatore cosa intende, e possono ritenere che abbia esagerato o sbagliato. Un profilo iniziale negativo non impedisce di crescere come persona perfettamente compatibile con la società da adulto.
 
 ## L'IA come attrezzo, non solo come minaccia esterna
 Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica alla trasformazione del mercato del lavoro descritta in [[La nave per un porto sommerso - IA e automazione]]: la stessa tecnologia che rende incerto il futuro professionale dei ragazzi è quella che rende costruibile, oggi, un sistema capace di seguirli uno per uno su scala nazionale.
@@ -47,7 +47,7 @@ Questo stesso layer automatico (sensi del sistema) è anche la risposta pratica 
 
 L'IA educativa proposta adatta spiegazioni orali, testi, immagini, schemi e simulazioni alle conoscenze, alle difficoltà e all'evoluzione dello studente. Suggerisce letture, gradua gli esercizi e crea materiali anche dagli appunti e dagli altri contributi della persona. Modalità e difficoltà vengono riviste sulla base della comprensione, senza etichette cognitive permanenti.
 
-La formazione di empatia, pazienza, rispetto, cooperazione e leadership avviene invece nelle relazioni umane dirette: le attività dedicate si svolgono senza assistenza o mediazione dell'IA. Questo principio riguarda tutto il percorso, anche quando il mentoring per l'apprendimento impiega un'IA personale.
+Trama riserva alla relazione umana diretta la formazione dell'intelligenza emotiva: le attività dedicate a questa dimensione si svolgono senza assistenza o mediazione dell'IA. Questo principio riguarda tutto il percorso, anche quando il mentoring per l'apprendimento impiega un'IA personale.
 
 Le sezioni 3.12 e 3.13 del [Position Paper](../Trama-Position-Paper.md) sviluppano questi requisiti e questa scelta pedagogica. La nota [[Fonti su apprendimento e IA]] distingue i riferimenti disponibili dalla validazione ancora necessaria.
 
