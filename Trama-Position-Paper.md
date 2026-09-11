@@ -2,11 +2,11 @@
 
 ### Un modello educativo per l'era dell'intelligenza artificiale
 
-**Position paper — versione 2.3**
+**Position paper — versione 2.4**
 
 - **Autore:** Giuseppe-Diego Gianni
 - **Prima pubblicazione (versione 1.0):** 30 luglio 2026 — resta il primo marcatore pubblico datato di questa sintesi
-- **Questa revisione:** 8 settembre 2026
+- **Questa revisione:** 11 settembre 2026
 - **Nome precedente:** pubblicato come *"La Scuola dei Talenti"* dalla versione 1.0 (30 luglio 2026) fino al 2 settembre 2026; rinominato **Trama** in pari data per evitare l'omonimia con un libro di altro autore. Contenuto e paternità invariati.
 - **Licenza:** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — è permessa la citazione, la ripresa e lo sviluppo di queste idee, a condizione di attribuirne la paternità all'autore originale
 
@@ -128,7 +128,7 @@ Da questo meccanismo discende anche l'inserimento del ragazzo in **attività rem
 
 La raccolta dei dati grezzi è affidata a sistemi automatici, imparziali e scalabili: interazioni con app, giochi, dispositivi connessi e sensori, e registrazioni di telecamere. Ma nessun dato diventa un blocco ufficiale della ragnatela senza che **un educatore umano lo interpreti e lo convalidi**.
 
-**Il grezzo non si conserva.** Il materiale registrato serve a osservare: una volta letto e interpretato, viene cancellato. Quello che resta nel sistema è l'osservazione validata, non la registrazione da cui è nata — e quello che l'educatore legge va pesato con il contesto di provenienza descritto in 3.14. È una regola di conservazione, non ancora il confine su quali dati non si raccolgono mai, che la sezione 5 lascia dichiaratamente aperto.
+**Il grezzo non si conserva.** Il materiale registrato serve a osservare: una volta letto e interpretato, viene cancellato. Quello che resta nel sistema è l'osservazione validata, non la registrazione da cui è nata — e quello che l'educatore legge va interpretato tenendo conto dell'ambiente in cui il bambino cresce, senza che quell'ambiente entri nel profilo né pesi sul livello registrato (3.14). È una regola di conservazione, non ancora il confine su quali dati non si raccolgono mai, che la sezione 5 lascia dichiaratamente aperto.
 
 Ogni blocco porta quindi una **doppia firma — automatica e umana**. I due firmatari sono la macchina e l'educatore: la firma umana serve a stabilire chi ha interpretato quel dato e in che modo, e resta tracciabile nel tempo. Non fonda un diritto di ricorso formale (vedi 3.10), ma impedisce che un'osservazione entri nel profilo senza che nessuno se ne assuma la responsabilità.
 
@@ -212,15 +212,25 @@ Sono esperienze nelle quali si incontra una persona con desideri, tempi e punti 
 
 La progettazione di Trama deve garantire strumenti adattivi per sostenere l'apprendimento e tempi protetti di esperienza umana condivisa lungo tutto il percorso. Gli spazi della relazione costituiscono una parte essenziale e intenzionale della formazione. Questa è una scelta pedagogica del modello; la sua realizzazione e i suoi esiti restano da sviluppare e verificare.
 
-### 3.14 Il contesto di provenienza e il peso dell'osservazione
+### 3.14 Il contesto di provenienza: perché il modello ha rinunciato a pesarlo
 
-Lo stesso comportamento non significa la stessa cosa in tutti gli ambienti. I litigi in casa, un lutto, una separazione, la povertà, la difficoltà sociale dei genitori spiegano molte delle reazioni che un educatore osserva; e chi cresce con meno risorse sviluppa attitudini e comportamenti diversi da chi ne ha in abbondanza. Il modello tiene conto dell'ambiente, ma **non lo scrive nel profilo come dato**: nessuna riga dice che la persona "viene da un ambiente x o y", e non serve entrare nella vita privata di un bambino per osservarlo bene.
+Lo stesso comportamento non significa la stessa cosa in tutti gli ambienti. I litigi in casa, un lutto, una separazione, la povertà, la difficoltà sociale dei genitori spiegano molte delle reazioni che un educatore osserva; e chi cresce con meno risorse sviluppa attitudini e comportamenti diversi da chi ne ha in abbondanza. Un bambino che mostra curiosità, capacità di risolvere problemi o spirito critico in un ambiente che non gliene ha dati gli strumenti sta facendo qualcosa che merita di essere visto. Il modello tiene conto di tutto questo, ma **non lo scrive nel profilo come dato**: nessuna riga dice che la persona "viene da un ambiente x o y", e non serve entrare nella vita privata di un bambino per osservarlo bene.
 
-L'ambiente agisce invece come un **moltiplicatore**, che dà peso al comportamento osservato. La sua direzione è deliberata: **più l'ambiente di provenienza è sfavorevole, più il moltiplicatore è alto.** Un bambino che manifesta capacità sopra la media nonostante la mancanza di stimoli è, per questo modello, un bambino dotato, e il moltiplicatore serve a segnalarlo invece di lasciarlo confondere con chi ottiene lo stesso risultato partendo con molto di più. Il valore stesso dice a chi legge da dove parte quel bambino, senza altri dettagli. All'iscrizione i genitori compilano un questionario da cui emerge la fascia sociale, ed è da lì che il moltiplicatore si ricava.
+Una revisione precedente di questo documento andava oltre e proponeva un **moltiplicatore**: un peso ricavato dalla fascia sociale della famiglia, tanto più alto quanto più il punto di partenza è sfavorevole, applicato al comportamento osservato. **Quel meccanismo è stato considerato e scartato.** Con esso cade anche il questionario sulla condizione sociale che i genitori avrebbero compilato all'iscrizione: il modello non raccoglie quel dato, perché non ha più nulla da farne.
 
-Il moltiplicatore **non è fisso**: cambia con quello che la persona dimostra lungo il percorso, e si esaurisce da solo. Quando i talenti vengono identificati, alimentati con gli stimoli e riconosciuti dal mondo — "il tuo profilo mi interessa, vieni con noi" — la persona accumula esperienze proprie ed esce dall'ambiente di partenza, e con esso dal sistema del moltiplicatore.
+Le ragioni per scartarlo vengono da precedenti reali più che da principi.
 
-È la risposta del modello all'obiezione più seria che si può muovere alla raccolta dati automatica: senza un correttivo, un sistema che registra tutto certificherebbe come merito quello che in parte è vantaggio di partenza, e lo farebbe col sigillo dell'immutabilità. È anche il punto più contestabile della proposta, e va discusso come tale: un peso pensato per correggere un'ingiustizia, se mal tarato, ne introduce un'altra.
+**Il numero unico che riassume lo svantaggio è già stato provato su scala nazionale.** Nel 2019 il College Board ha affiancato ai punteggi SAT un *adversity score* costruito su indicatori di quartiere e di scuola, e lo ha ritirato nel giro di tre mesi: parole del suo amministratore delegato, era riduttivo e fuorviante. Al suo posto è rimasto uno strumento che mostra gli stessi dati senza combinarli in una cifra e li dichiara informazione di sfondo, lasciando il punteggio individuale a dire quello che dice.
+
+**Aggiustare i punteggi in base al gruppo di provenienza ha una storia peggiore.** Negli Stati Uniti è stata pratica corrente nei servizi per l'impiego fino al divieto federale del 1991, ed è riemersa nelle valutazioni neuropsicologiche del contenzioso sulle commozioni cerebrali della NFL, dove norme differenziate per razza assumevano una base cognitiva più bassa per i giocatori neri: il loro declino risultava aritmeticamente minore e le richieste di risarcimento venivano respinte. Il punto che riguarda questo modello non è la razza, ma la direzione. Una volta che l'origine è dentro la cifra, il significato della cifra non lo decide più chi ha progettato il meccanismo: lo decide chi la legge, e può leggerla come "da questo ci si aspetta meno".
+
+**Mostrare il contesto a chi osserva non corregge il pregiudizio.** La ricerca sperimentale sulla formazione delle aspettative degli insegnanti trova che la distorsione verso i bambini che vengono da famiglie meno presenti persiste anche quando agli insegnanti vengono forniti dati contestuali più ricchi: l'informazione sul contesto non corregge la distorsione, viaggia insieme a lei. Un segnale acceso accanto al nome di un bambino può spingere lo sguardo esattamente dove non lo si vuole.
+
+La correzione resta necessaria, e il modello la sposta **a monte**. Il punto in cui i bambini svantaggiati vengono persi non è la taratura del giudizio: è che nessuno li guarda. La scoperta attiva descritta in 3.3 — stimoli somministrati a tutti, e adulti il cui mestiere è andare a cercare invece di aspettare una segnalazione — è la risposta del modello alla disuguaglianza di partenza, e non ha bisogno di sapere da dove viene il bambino. È anche la risposta con le evidenze migliori: quando un distretto scolastico della Florida ha sostituito la segnalazione di genitori e insegnanti con uno screening esteso a tutti i bambini, l'identificazione dei bambini ad alto potenziale tra gli svantaggiati è quasi triplicata, senza che nessuna soglia venisse modificata. I bambini erano già lì; mancava chi li guardasse.
+
+Il livello registrato resta quindi il livello osservato: nessun peso dentro la cifra, nessuna annotazione sull'origine accanto alla cifra, nessun segnale acceso per l'educatore. Quello che il modello promette a chi parte svantaggiato non è un punteggio corretto, ma di essere guardato con la stessa attenzione di tutti gli altri. È una promessa più modesta di quella della revisione precedente, ed è l'unica che il modello sa mantenere senza introdurre un'ingiustizia nuova per correggerne una vecchia.
+
+Resta vero ciò che il moltiplicatore voleva risolvere, ed è giusto dichiararlo: un sistema che registra tutto rischia di certificare come merito ciò che in parte è vantaggio di partenza, e di farlo col sigillo dell'immutabilità. La scoperta attiva riduce quel rischio all'origine, dove i bambini vengono trovati o persi; non lo annulla. La questione dell'equità di accesso, nella sezione 5, resta aperta esattamente lì.
 
 ## 4. Cosa questo documento non è
 
@@ -239,12 +249,11 @@ L'autore preferisce elencarle piuttosto che lasciarle scoprire al lettore.
 3. **Con che cosa si verifica una soft skill.** Un livello di matematica si verifica; leadership o empatia con quale prova, e con quale meccanismo di decadenza. La sezione 3.12 aggiunge un criterio di lettura — distinguere ciò che la persona fa da sola, con assistenza o per delega allo strumento — ma non la prova.
 4. **Dove questo modello si separa da Illich.** La descolarizzazione dice che la scuola non è riformabile e va sostituita da reti informali; questo modello costruisce invece un'istituzione, con registri, soglie e validazione. La differenza va dichiarata.
 5. **Come garantire gli spazi della relazione umana.** Il principio è esplicito nella sezione 3.13. Restano aperti l’organizzazione dei tempi e delle attività, la preparazione degli educatori e la verifica degli esiti.
-6. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico. Il moltiplicatore (3.14) pesa il punto di partenza di una persona; non porta dispositivi, coach e opportunità dove non ci sono.
+6. **L'equità di accesso** per chi vive dove ci sono meno dispositivi e meno tessuto economico. Eliminato il moltiplicatore del contesto (3.14), tutta la risposta del modello alla disuguaglianza di partenza poggia sulla scoperta attiva: stimoli somministrati a tutti e adulti pagati per andare a cercare. È una risposta che vale però solo dove il sistema arriva, e non porta dispositivi, coach e opportunità dove non ci sono.
 7. **Come insegnare e verificare l'alfabetizzazione critica sull'IA.** Il principio entra nelle basi comuni (3.2); restano da definire progressione per età, materiali e criteri di verifica dell'apprendimento autonomo e assistito (3.12).
 8. **La formazione reale degli educatori della prima infanzia** (vedi 3.6).
-9. **Come si tara il moltiplicatore del contesto** (3.14): con quale scala, chi lo stabilisce e chi lo controlla, e a quali condizioni si considera esaurito. Il principio è dichiarato; la sua taratura decide se corregge una disuguaglianza o ne crea un'altra.
-10. **A quali condizioni la firma umana resta una firma.** La doppia firma (3.5) regge solo se chi valida ha il tempo e la competenza per farlo davvero: gli strumenti di osservazione citati in 3.3 costano ore per bambino. Se validare diventa inesigibile, la firma si riduce a un timbro, e con essa cade la responsabilità tracciabile su cui il modello poggia. Come lo si organizzi è mestiere altrui; che la condizione sia soddisfatta, no.
-11. **L'effetto dell'osservazione su chi osserva.** Un'osservazione destinata a diventare un blocco firmato e permanente cambia il modo in cui l'educatore guarda. La documentazione del modello Reggio Emilia funziona anche perché resta locale, discorsiva e rivedibile; qui il rischio è un'osservazione difensiva — più prudente e meno vera — prodotta proprio dal meccanismo pensato per creare fiducia.
+9. **A quali condizioni la firma umana resta una firma.** La doppia firma (3.5) regge solo se chi valida ha il tempo e la competenza per farlo davvero: gli strumenti di osservazione citati in 3.3 costano ore per bambino. Se validare diventa inesigibile, la firma si riduce a un timbro, e con essa cade la responsabilità tracciabile su cui il modello poggia. Come lo si organizzi è mestiere altrui; che la condizione sia soddisfatta, no.
+10. **L'effetto dell'osservazione su chi osserva.** Un'osservazione destinata a diventare un blocco firmato e permanente cambia il modo in cui l'educatore guarda. La documentazione del modello Reggio Emilia funziona anche perché resta locale, discorsiva e rivedibile; qui il rischio è un'osservazione difensiva — più prudente e meno vera — prodotta proprio dal meccanismo pensato per creare fiducia.
 
 ## 6. Cosa si appoggia a lavori e infrastrutture preesistenti
 
@@ -266,7 +275,7 @@ I lavori di Anderson e Winthrop sul coinvolgimento degli studenti e il rapporto 
 
 ## 7. Stato del progetto
 
-Questa è la versione 2.3 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
+Questa è la versione 2.4 di una sintesi preliminare, pubblicata come marcatore datato in attesa di un'opera più estesa (libro e materiali correlati) attualmente in sviluppo. La versione 1.0 del 30 luglio 2026 resta il primo marcatore pubblico della sintesi.
 
 Rispetto alla 1.0, la versione 2.0 ha aggiunto il cambio di obiettivo (sezione 2), le basi comuni, la scoperta attiva, la distinzione tra i due documenti, l'ingresso a qualunque età e il perimetro dichiarato; e ha reso esplicito chi firma che cosa, chiarendo che l'umano che convalida è l'educatore e che il genitore prende visione — un punto che la 1.0 lasciava indeterminato.
 
@@ -276,12 +285,14 @@ La revisione 2.2, di pari data, scrive nel documento tre elementi decisi in prec
 
 La revisione 2.3 precisa che cosa si registra osservando un bambino — l'ingaggio, non una vocazione — e nomina gli strumenti già esistenti su cui l'osservazione si appoggia (3.3); dichiara la premessa che il modello fa sul talento (sezione 4); accorpa due questioni aperte in una e ne aggiunge due, sulla firma che rischia di diventare un timbro e sull'effetto dell'osservazione su chi osserva.
 
+La revisione 2.4 elimina il moltiplicatore del contesto di provenienza, introdotto dalla 2.2: la sezione 3.14 è riscritta come il racconto di un meccanismo considerato e scartato, con i precedenti che hanno portato a scartarlo. Cade con esso il questionario sulla condizione sociale all'iscrizione, che serviva solo a ricavarlo. La risposta del modello alla disuguaglianza di partenza si sposta interamente sulla scoperta attiva (3.3); la questione aperta sull'equità di accesso è riformulata di conseguenza, e quella sulla taratura del moltiplicatore è chiusa perché non ha più oggetto.
+
 Il modello è aperto al confronto, alla critica e allo sviluppo collaborativo: l'obiettivo primario dell'autore è vedere queste idee discusse e, se possibile, adottate, non la loro esclusiva proprietà commerciale.
 
 ---
 
 ## Come citare questo documento
 
-> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.3, 8 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
+> Giuseppe-Diego Gianni, *"Trama — Un modello educativo per l'era dell'intelligenza artificiale"*, position paper, versione 2.4, 11 settembre 2026 (prima versione: 30 luglio 2026). Il progetto è stato pubblicato con il nome *"La Scuola dei Talenti"* dal 30 luglio al 2 settembre 2026, quando è stato rinominato *Trama*.
 
 *Per domande, osservazioni critiche o proposte di collaborazione, contattare l'autore direttamente.*
