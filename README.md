@@ -45,6 +45,8 @@ Ogni commit su questo repository riceve automaticamente da GitHub una data e un'
 18. **Gli spazi della relazione umana** — formazione dell'intelligenza emotiva attraverso attività senza assistenza o mediazione dell'IA.
 19. **Il contesto di provenienza** — l'ambiente conta, e non si scrive nel profilo. Il modello ha considerato di pesarlo con un moltiplicatore e lo ha scartato: la correzione della disuguaglianza di partenza si sposta a monte, sulla scoperta attiva — stimoli per tutti e adulti che vanno a cercare — invece di un peso applicato al giudizio.
 
+20. **Esperienze, progressione adattiva e doppia validazione Uomo–IA** — ambienti interdisciplinari (forno, orto, robotica), esplorazione reversibile e livelli per singola competenza; il sistema collega scoperta attiva, piattaforma adattiva, validazione umana e ragnatela. [Leggi la nota](./note/Esperienze%2C%20progressione%20adattiva%20e%20doppia%20validazione%20Uomo-IA.md).
+
 I riferimenti pedagogici e le verifiche delle fonti sono raccolti in [Fonti su apprendimento e IA](./note/Fonti%20su%20apprendimento%20e%20IA.md).
 
 Per il dettaglio di ciascun punto, per le questioni dichiaratamente aperte e per la lista esplicita di cosa si basa su lavori altrui, vedi il [position paper](./Trama-Position-Paper.md).
