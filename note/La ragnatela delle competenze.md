@@ -81,3 +81,8 @@ Le osservazioni devono distinguere ciò che la persona dimostra autonomamente, c
 L'ambiente di provenienza conta, ma nella ragnatela **il livello resta il livello osservato**: non entra come dato scritto e non entra nemmeno come peso. Il modello ha considerato un **moltiplicatore** del contesto e lo ha scartato — i precedenti di punteggi corretti in base all'origine sono finiti male, e segnalare il contesto a chi osserva non corregge il pregiudizio, ci viaggia insieme. Il racconto per esteso è nella sezione 3.14 del [Position Paper](../Trama-Position-Paper.md). La correzione della disuguaglianza di partenza si sposta a monte, sulla scoperta attiva: è così che il modello risponde anche al terzo dei problemi seri elencati in [[Il modello ibrido uomo-macchina]].
 
 Collegamenti: [[Trama - la visione]] · [[Il modello ibrido uomo-macchina]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[Blockchain educativa]] · [[La nave per un porto sommerso - IA e automazione]] · [[Lo stack a quattro livelli - come si collega tutto]] · [[Decadenza e rinnovo delle competenze]]
+
+
+## Approfondimento: esperienze e progressione adattiva
+
+Il passaggio dagli stimoli infantili (*topolini*) alle attività interdisciplinari, ai test adattivi e all'accesso progressivo a nuovi ambienti è illustrato in [[Esperienze, progressione adattiva e doppia validazione Uomo-IA]]. Questa nota resta il riferimento per il meccanismo specifico trattato qui.
