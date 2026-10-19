@@ -73,3 +73,8 @@ Punto importante da non confondere: **il riconoscimento del merito non ha bisogn
 Per la mappa completa di come questi precedenti si incastrano tra loro, vedi [[Lo stack a quattro livelli - come si collega tutto]].
 
 Collegamenti: [[La ragnatela delle competenze]] · [[Il modello ibrido uomo-macchina]] · [[Trama - la visione]] · [[Cosa serve per scalare a livello nazionale]] · [[La nave per un porto sommerso - IA e automazione]] · [[Lo stack a quattro livelli - come si collega tutto]]
+
+
+## Approfondimento: esperienze e progressione adattiva
+
+Il passaggio dagli stimoli infantili (*topolini*) alle attività interdisciplinari, ai test adattivi e all'accesso progressivo a nuovi ambienti è illustrato in [[Esperienze, progressione adattiva e doppia validazione Uomo-IA]]. Questa nota resta il riferimento per il meccanismo specifico trattato qui.

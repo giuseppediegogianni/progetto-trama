@@ -61,3 +61,8 @@ Trama riserva alla relazione umana diretta la formazione dell'intelligenza emoti
 Le sezioni 3.12 e 3.13 del [Position Paper](../Trama-Position-Paper.md) sviluppano questi requisiti e questa scelta pedagogica. La nota [[Fonti su apprendimento e IA]] distingue i riferimenti disponibili dalla validazione ancora necessaria.
 
 Collegamenti: [[Blockchain educativa]] · [[Il nodo GDPR e i minori]] · [[Trama - la visione]] · [[Il mercato delle opportunità - progetto, soglia, coach]] · [[La nave per un porto sommerso - IA e automazione]] · [[Decadenza e rinnovo delle competenze]]
+
+
+## Approfondimento: esperienze e progressione adattiva
+
+Il passaggio dagli stimoli infantili (*topolini*) alle attività interdisciplinari, ai test adattivi e all'accesso progressivo a nuovi ambienti è illustrato in [[Esperienze, progressione adattiva e doppia validazione Uomo-IA]]. Questa nota resta il riferimento per il meccanismo specifico trattato qui.
